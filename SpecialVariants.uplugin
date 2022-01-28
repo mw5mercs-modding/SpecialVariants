@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SpecialVariants",
+	"Description": "A selection of special (mostly-lore accurate) variants which make use of the equipment in the Equipment Collection formerly known as Harjel and HeatSinkKits.",
+	"Category": "Other",
+	"CreatedBy": "trueg",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"IsMod": true,
+	"Installed": false
+}

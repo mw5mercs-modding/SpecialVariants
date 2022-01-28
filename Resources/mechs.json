@@ -1,0 +1,12 @@
+{
+	"ANH-2AX": {
+		"quirks": [
+			"hardened-plates"
+		]
+	},
+	"WHM-10K": {
+		"quirks": [
+			"high-pressure-cooling"
+		]
+	}
+}
