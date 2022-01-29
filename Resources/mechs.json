@@ -8,5 +8,22 @@
 		"quirks": [
 			"high-pressure-cooling"
 		]
+	},
+	"WHM-66": {
+		"quirks": [
+			"high-pressure-cooling",
+			"coolingJacketPpc"
+		]
+	}
+	"MAD-8K": {
+		"quirks": [
+			"gunslinger"
+		]
+	},
+	"ZEU-X": {
+		"quirks": [
+			"dreadnought",
+			"zeusXDifficultToMaintain"
+		]
 	}
 }
