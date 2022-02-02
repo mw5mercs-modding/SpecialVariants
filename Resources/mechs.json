@@ -2,28 +2,39 @@
 	"ANH-2AX": {
 		"quirks": [
 			"hardened-plates"
-		]
+		],
+		"useSkinsFrom": "Mech.Assault.Annihilator.ANH-2A"
 	},
 	"WHM-10K": {
 		"quirks": [
 			"high-pressure-cooling"
-		]
+		],
+		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
 	},
 	"WHM-66": {
 		"quirks": [
 			"high-pressure-cooling",
 			"coolingJacketPpc"
-		]
-	}
+		],
+		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+	},
 	"MAD-8K": {
 		"quirks": [
 			"gunslinger"
-		]
+		],
+		"useSkinsFrom": "Mech.Assault.Marauderii.MAD-5A"
 	},
 	"ZEU-X": {
 		"quirks": [
 			"dreadnought",
 			"zeusXDifficultToMaintain"
-		]
+		],
+		"useSkinsFrom": "Mech.Assault.Zeus.ZEU-9S"
+	},
+	"CTF-5L": {
+		"useSkinsFrom": "Mech.Heavy.Cataphract.CTF-1X"
+	},
+	"PNT-14R": {
+		"useSkinsFrom": "Mech.Light.Panther.PNT-8Z"
 	}
 }
