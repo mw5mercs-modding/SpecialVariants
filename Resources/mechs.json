@@ -36,5 +36,13 @@
 	},
 	"PNT-14R": {
 		"useSkinsFrom": "Mech.Light.Panther.PNT-8Z"
+	},
+	"BLK-O": {
+		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT",
+		"quirks": [
+			"RUGGED1",
+			"hardened-plates",
+			"high-pressure-cooling"
+		]
 	}
 }

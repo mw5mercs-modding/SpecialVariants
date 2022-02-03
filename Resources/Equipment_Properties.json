@@ -1,0 +1,35 @@
+{
+	"INTERNAL_REPAIR_SYSTEMS": {
+		"fixed": true,
+		"color": "(R=0.11,G=0.19,B=0.77,A=0.5)",
+		"minTonnage": "0",
+		"maxTonnage": "100",
+		"fillerSlots": {
+			"LeftTorso": 1,
+			"RightTorso": 1,
+			"LeftLeg": 1,
+			"RightLeg": 1,
+			"LeftArm": 1,
+			"RightArm": 1
+		},
+		"structureWeightMulti": 1.2,
+		"structureRepairCostMulti": 1.4,
+		"selfRepairArmor": 2,
+		"selfRepairStructure": 1.5,
+		"selfRepairDuration": 5,
+		"selfRepairInterval": 1,
+		"selfRepairScope": "mech"
+	},
+	"OMNI_GYRO_XXL": {
+		"fillerSlots": {
+			"LeftTorso": 2,
+			"RightTorso": 2
+		},
+		"relativeWeight": 0.25,
+		"loreAccurate": false,
+		"fixed": true
+	},
+	"LIGHT_ENGINE_300_FIXED": {
+		"fixed": true
+	}
+}
