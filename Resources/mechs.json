@@ -37,6 +37,9 @@
 	"PNT-14R": {
 		"useSkinsFrom": "Mech.Light.Panther.PNT-8Z"
 	},
+	"TDR-12R": {
+		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
+	},
 	"Conquistador_MDL": {
 		"quirks": [
 			"advancedSmallCockpit",
