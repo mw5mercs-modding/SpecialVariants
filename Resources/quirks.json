@@ -96,5 +96,10 @@
 				]
 			}
 		}
+	},
+	"advancedSmallCockpit": {
+		"name": "Advanced Small Cockpit",
+		"description": "The Advanced Small Cockpit comes with upgraded controls and haptic systems, eliminating the classic issues of the 'cramped' small cockpits.",
+		"properties": {}
 	}
 }

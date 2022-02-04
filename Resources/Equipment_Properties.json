@@ -18,7 +18,13 @@
 		"selfRepairStructure": 1.5,
 		"selfRepairDuration": 5,
 		"selfRepairInterval": 1,
-		"selfRepairScope": "mech"
+		"selfRepairScope": "mech",
+		"mechConflicts": [
+			"HARJEL_I",
+			"HARJEL_II",
+			"HARJEL_III",
+			"BLACK_CARAPACE"
+		]
 	},
 	"OMNI_GYRO_XXL": {
 		"fillerSlots": {

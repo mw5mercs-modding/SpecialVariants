@@ -37,12 +37,24 @@
 	"PNT-14R": {
 		"useSkinsFrom": "Mech.Light.Panther.PNT-8Z"
 	},
-	"BLK-O": {
-		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT",
+	"Conquistador_MDL": {
 		"quirks": [
+			"advancedSmallCockpit",
 			"RUGGED1",
 			"hardened-plates",
 			"high-pressure-cooling"
 		]
+	},
+	"BLK-O": {
+		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
+	},
+	"BLK-OA": {
+		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
+	},
+	"BLK-OB": {
+		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
+	},
+	"BLK-OC": {
+		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
 	}
 }
