@@ -59,5 +59,8 @@
 	},
 	"BLK-OC": {
 		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
+	},
+	"RFL-3CR": {
+		"useSkinsFrom": "Mech.Heavy.Rifleman.RFL-3C"
 	}
 }
