@@ -101,5 +101,11 @@
 		"name": "Advanced Small Cockpit",
 		"description": "The Advanced Small Cockpit comes with upgraded controls and haptic systems, eliminating the classic issues of the 'cramped' small cockpits.\nFrees up one slot in the head.",
 		"properties": {}
+	},
+	"clan-mech": {
+		"name": "Clan",
+		"description": "This is a Clan mech which uses advanced clan technology.",
+		"color": "(R=0.484,G=0.336,B=0.012,A=1)",
+		"properties": {}
 	}
 }
