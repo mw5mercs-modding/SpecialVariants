@@ -37,5 +37,8 @@
 	},
 	"LIGHT_ENGINE_300_FIXED": {
 		"fixed": true
+	},
+	"Equipment.Ammo.Double": {
+		"rarity": 0.3
 	}
 }
