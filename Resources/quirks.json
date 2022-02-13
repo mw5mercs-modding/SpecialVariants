@@ -104,8 +104,49 @@
 	},
 	"clan-mech": {
 		"name": "Clan",
-		"description": "This is a Clan mech which uses advanced clan technology.",
+		"description": "The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.",
 		"color": "(R=0.484,G=0.336,B=0.012,A=1)",
-		"properties": {}
+		"properties": {
+			"topSpeedMulti": 1.067,
+			"accelerationMulti": 1.1,
+			"turnSpeedMulti": 1.1,
+			"upkeepCostMulti": 1.2,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Melee",
+						"tags": [
+							"Weapon.Melee"
+						],
+						"damageMulti": 0.7
+					}
+				]
+			}
+		}
+	},
+	"gungnir": {
+		"name": "Gungnir",
+		"description": "Legendary Gungnir Mech",
+		"color": "(R=0.15,G=0.31,B=0.96,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"heatMulti": 0.85
+					},
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"spreadRadiusMulti": 0.9
+					}
+				]
+			}
+		}
 	}
 }

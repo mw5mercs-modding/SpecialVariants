@@ -72,5 +72,11 @@
 			"clan-mech"
 		],
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+	},
+	"MAD-S7": {
+		"quirks": [
+			"gungnir"
+		],
+		"useSkinsFrom": "Mechs.Heavy.Marauder.MAD-3R"
 	}
 }
