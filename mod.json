@@ -1,16 +1,14 @@
 {
-   "displayName" : "SpecialVariants",
-   "version" : "1.0",
-   "buildNumber" : 47,
-   "description" : "A selection of special (mostly-lore accurate) variants which make use of the equipment in the Equipment Collection formerly known as Harjel and HeatSinkKits.",
-   "author" : "trueg",
-   "authorURL" : "",
-   "defaultLoadOrder" : 0,
-   "gameVersion" : "1.1.0",
-   "manifest" : [
-      
-   ],
-   "steamPublishedFileId" : 0,
-   "steamLastSubmittedBuildNumber" : 0,
-   "steamModVisibility" : "Private"
+	"displayName": "SpecialVariants",
+	"version": "1.0",
+	"buildNumber": 65,
+	"description": "A selection of special (mostly-lore accurate) variants which make use of the equipment in the Equipment Collection formerly known as Harjel and HeatSinkKits.",
+	"author": "trueg",
+	"authorURL": "",
+	"defaultLoadOrder": 0,
+	"gameVersion": "1.1.0",
+	"manifest": [],
+	"steamPublishedFileId": 2752897895,
+	"steamLastSubmittedBuildNumber": 65,
+	"steamModVisibility": "Public"
 }
