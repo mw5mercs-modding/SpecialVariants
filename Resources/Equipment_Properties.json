@@ -40,5 +40,11 @@
 	},
 	"Equipment.Ammo.Double": {
 		"rarity": 0.3
+	},
+	"CLAN_XXL400": {
+		"fillerSlots": {
+			"LeftTorso": 4,
+			"RightTorso": 4
+		}
 	}
 }

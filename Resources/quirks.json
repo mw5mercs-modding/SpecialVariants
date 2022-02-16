@@ -148,5 +148,76 @@
 				]
 			}
 		}
+	},
+	"WMR-IIC-ML": {
+		"name": "Warhammer IIC Maul",
+		"description": "Warhammer IIC Maul Hero Quirk",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 8,
+				"RightTorso": 6,
+				"LeftTorso": 6,
+				"RightArm": 4,
+				"LeftArm": 4,
+				"RightLeg": 4,
+				"LeftLeg": 4
+			},
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"cooldownMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Standard SRM",
+						"tags": [
+							"Weapon.Missile.SRM"
+						],
+						"spreadRadiusMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Machine Gun",
+						"tags": [
+							"Weapon.Ballistic.MG"
+						],
+						"speedMulti": 1.2
+					}
+				]
+			}
+		}
+	},
+	"WMR-IIC-RAC": {
+		"name": "RAC-Hammer",
+		"description": "Warhammer IIC \"RAC-Hammer\" Hero Quirk",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 16,
+				"RightTorso": 12,
+				"LeftTorso": 12,
+				"RightArm": 8,
+				"LeftArm": 8,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			},
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "RAC",
+						"tags": [
+							"Weapon.Ballistic.AutoCannon.Rotary"
+						],
+						"jamChanceMulti": 0.9,
+						"heatMulti": 0.9,
+						"damageMulti": 1.2
+					}
+				]
+			}
+		}
 	}
 }
