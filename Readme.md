@@ -25,6 +25,11 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 - Conquistador BLK-OB
 - Conquistador BLK-OC
 - Warhammer IIC (just a rescale of the normal Warhammer but I just love the Warhammer so I had to add this.)
+- Warhammer IIC 5
+- Warhammer IIC 9
+- Warhammer IIC Maul Hero Mech
+- Warhammer IIC RAC Hero Mech (my own creation sporting 4 RAC/2s to shred everything)
+- The april fool's joke that has gone too far: the Urbanlord UBL-RX (RT) in all its pink glory
 
 ## Additional Stuff
 
