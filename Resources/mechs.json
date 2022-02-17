@@ -95,6 +95,13 @@
 		"quirks": [
 			"gungnir"
 		],
-		"useSkinsFrom": "Mechs.Heavy.Marauder.MAD-3R"
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
+	},
+	"UBL-RX": {
+		"quirks": [
+			"360twist"
+		],
+		"scale": "X=1.5 Y=1.5 Z=1.5",
+		"useSkinsFrom": "Mech.Light.Urbanmech.UM-R60"
 	}
 }
