@@ -14,6 +14,7 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 - Panther **PNT-14R**
 - Rifleman **RFL-3CR**
 - Thunderbolt **TDR-12R**
+- Thunderbolt **TDR-E5 ERIS** (RT)
 - Warhammer **WHM-10K**
 - Warhammer **WHM-66** (RT)
 - Zeus **ZEU-X**
