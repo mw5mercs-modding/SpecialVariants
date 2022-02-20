@@ -40,6 +40,12 @@
 	"TDR-12R": {
 		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
 	},
+	"TDR-E5 ERIS": {
+		"quirks": [
+			"TDR-E5-ERIS"
+		],
+		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
+	},
 	"Conquistador_MDL": {
 		"quirks": [
 			"advancedSmallCockpit",

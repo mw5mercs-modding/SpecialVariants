@@ -224,5 +224,28 @@
 		"name": "360° Torso Twist",
 		"description": "The 'mech's torso can rotate 360° to fire in all directions.",
 		"properties": {}
+	},
+	"TDR-E5-ERIS": {
+		"name": "Thunderbolt Eris",
+		"description": "The Eris, named after the Terran Goddess of Chaos and Strife",
+		"properties": {
+			"armorBonus": {
+				"RightArm": 20,
+				"LeftArm": 20
+			},
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"heatMulti": 0.85,
+						"damageMulti": 1.1,
+						"cooldownMulti": 0.85
+					}
+				]
+			}
+		}
 	}
 }
