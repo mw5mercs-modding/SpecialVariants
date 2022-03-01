@@ -70,7 +70,7 @@
 		],
 		"scale": "X=1.1 Y=1.1 Z=1.1"
 	},
-	"WMR-IIC": {
+	"WMR-IIC-1": {
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
 	},
 	"WMR-IIC-5": {
