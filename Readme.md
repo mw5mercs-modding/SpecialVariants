@@ -17,6 +17,7 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 - Thunderbolt **TDR-E5 ERIS** (RT)
 - Warhammer **WHM-10K**
 - Warhammer **WHM-66** (RT)
+- Warhammer **WHM-X** (RT)
 - Zeus **ZEU-X**
 
 ## Real Special Variants
