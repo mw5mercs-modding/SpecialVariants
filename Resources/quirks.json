@@ -17,6 +17,24 @@
 			}
 		}
 	},
+	"risc-mech": {
+		"name": "RISC",
+		"description": "This mech has been tuned to the max by RISC engineers.",
+		"properties": {
+			"sensorRangeMulti": 1.05,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.95
+					}
+				]
+			}
+		}
+	},
 	"hardened-plates": {
 		"name": "Hardened Plates",
 		"description": "The Armor has been hardened to be able to absorb damage better.",
@@ -52,8 +70,8 @@
 			}
 		}
 	},
-	"dreadnought": {
-		"name": "Dreadnought",
+	"dreadnaught": {
+		"name": "Dreadnaught",
 		"description": "Improved Damage resistance.",
 		"properties": {
 			"incomingDamage": {
