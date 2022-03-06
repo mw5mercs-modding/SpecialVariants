@@ -116,5 +116,19 @@
 		],
 		"scale": "X=1.5 Y=1.5 Z=1.5",
 		"useSkinsFrom": "Mech.Light.Urbanmech.UM-R60"
+	},
+	"BL-S7-KNT": {
+		"quirks": [
+			"melee-actuators",
+			"supercooled"
+		],
+		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
+	},
+	"WVR-X": {
+		"quirks": [
+			"reflective-coating",
+			"melee-actuators"
+		],
+		"useSkinsFrom": "Mech.Medium.Wolverine.WVR-6K"
 	}
 }

@@ -265,5 +265,49 @@
 				]
 			}
 		}
+	},
+	"melee-actuators": {
+		"name": "Melee Actuators",
+		"description": "This mech has been optimized for melee combat",
+		"color": "(R=0.6,G=0.59,B=0.33,A=1)",
+		"properties": {
+			"weapons": {
+				"scope": "mech",
+				"groups": [
+					{
+						"weaponGroupName": "Melee",
+						"tags": [
+							"Weapon.Melee"
+						],
+						"damageMulti": 1.1,
+						"cooldownMulti": 0.9
+					}
+				]
+			}
+		}
+	},
+	"supercooled": {
+		"name": "Supercooled",
+		"description": "This mech can sustain more heat before shutting down",
+		"properties": {
+			"heatCapacityBonus": 10
+		}
+	},
+	"reflective-coating": {
+		"name": "Reflective Coating",
+		"description": "This 'mech's armor has been finished with a reflective coating.",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"incomingDamage": {
+				"groups": [{
+					"weaponGroupName": "Energy",
+					"tags": [
+						"Weapon.Energy"
+					],
+					"armorDamageMulti": 0.9,
+					"scope": "mech"
+				}]
+			}
+		}
 	}
 }
