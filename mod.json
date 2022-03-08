@@ -1,7 +1,7 @@
 {
    "displayName" : "SpecialVariants",
-   "version" : "1.1.1",
-   "buildNumber" : 123,
+   "version" : "1.2",
+   "buildNumber" : 124,
    "description" : "A selection of special (mostly-lore accurate) variants which make use of the equipment in the Equipment Collection formerly known as Harjel and HeatSinkKits.",
    "author" : "trueg",
    "authorURL" : "",
@@ -11,6 +11,6 @@
       "/Game/Objects/Mechs/Wolverine/Model/Wolverine_HPS.uasset"
    ],
    "steamPublishedFileId" : 2752897895,
-   "steamLastSubmittedBuildNumber" : 94,
+   "steamLastSubmittedBuildNumber" : "124",
    "steamModVisibility" : "Public"
 }
