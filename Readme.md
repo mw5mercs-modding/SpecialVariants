@@ -8,6 +8,7 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 ## Included Normalish Variants
 
 - Annihilatior **ANH-2AX**
+- Black Knight **BL-S7 Gladiator** (RT)
 - Cataphract **CTF-5L**
 - Marauder **MAD-S7** (RT)
 - Marauder II **MAD-8K**
