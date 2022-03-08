@@ -34,6 +34,8 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 - **Warhammer IIC Maul** Hero Mech
 - **Warhammer IIC RAC** Hero Mech (my own creation sporting 4 RAC/2s to shred everything)
 - The april fool's joke that has gone too far: the **Urbanlord UBL-RX** (RT) in all its pink glory
+- **Hunchback IIC, IIC-2, IIC-3, IIC-4, IIC-5** (thanks to Mace24 for the weapon models. Also Check his lore-accurate variants mod!)
+- **Hunchback IIC Deathwish** Hero Mech
 
 ## Additional Stuff
 
