@@ -309,5 +309,41 @@
 				}]
 			}
 		}
+	},
+	"hbk-iic-deathwish": {
+		"name": "Hunchback IIC Deathwish",
+		"description": "Hunchback IIC Deathwish Hero Quirk",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 8,
+				"RightTorso": 12,
+				"LeftTorso": 12
+			},
+			"structureBonus": {
+				"CenterTorso": 12,
+				"RightTorso": 12,
+				"LeftTorso": 12
+			},
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.9,
+						"cooldownMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"cooldownMulti": 0.9
+					}
+				]
+			}
+		}
 	}
 }

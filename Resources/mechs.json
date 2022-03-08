@@ -130,5 +130,31 @@
 			"melee-actuators"
 		],
 		"useSkinsFrom": "Mech.Medium.Wolverine.WVR-6K"
+	},
+	"Hunchback_IIC_MDL": {
+		"quirks": [
+			"BATTLEFISTS"
+		]
+	},
+	"HBK-IIC-1": {
+		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
+	},
+	"HBK-IIC-2": {
+		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
+	},
+	"HBK-IIC-3": {
+		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
+	},
+	"HBK-IIC-4": {
+		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
+	},
+	"HBK-IIC-5": {
+		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
+	},
+	"HBK-IIC-DW": {
+		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G",
+		"quirks": [
+			"hbk-iic-deathwish"
+		]
 	}
 }
