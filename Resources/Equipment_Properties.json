@@ -56,5 +56,20 @@
 		"fillerSlots": {
 			"dynamic": 0
 		}
+	},
+	"TC_DEFIANCE": {
+		"fixed": true,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"damageMulti": 1.15
+				}
+			]
+		}
 	}
 }
