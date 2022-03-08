@@ -19,6 +19,7 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 - Warhammer **WHM-10K**
 - Warhammer **WHM-66** (RT)
 - Warhammer **WHM-X** (RT)
+- Wolverine **WVR-X** (RT)
 - Zeus **ZEU-X**
 
 ## Real Special Variants

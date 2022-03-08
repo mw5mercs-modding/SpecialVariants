@@ -47,7 +47,7 @@
 	"TDR-12R": {
 		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
 	},
-	"TDR-E5 ERIS": {
+	"TDR-E5": {
 		"quirks": [
 			"TDR-E5-ERIS"
 		],
