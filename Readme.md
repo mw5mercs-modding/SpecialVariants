@@ -29,8 +29,14 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 - Conquistador **BLK-OB**
 - Conquistador **BLK-OC**
 - **Warhammer IIC** (just a rescale of the normal Warhammer but I just love the Warhammer so I had to add this.)
+- **Warhammer IIC 2**
+- **Warhammer IIC 3**
+- **Warhammer IIC 4**
 - **Warhammer IIC 5**
+- **Warhammer IIC 6**
+- **Warhammer IIC 8**
 - **Warhammer IIC 9**
+- **Warhammer IIC 10**
 - **Warhammer IIC Maul** Hero Mech
 - **Warhammer IIC RAC** Hero Mech (my own creation sporting 4 RAC/2s to shred everything)
 - The april fool's joke that has gone too far: the **Urbanlord UBL-RX** (RT) in all its pink glory
@@ -40,4 +46,5 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 ## Additional Stuff
 
 - Thunderbolt 5, 10, 15, 20 launchers (thank you Silby)
+- Clan Plasma Cannon (heat damage only)
 - Double bins for all vanilla, YAW and YAWC ammo types (2 slots, 2 tons, 2.5 times the ammo)
