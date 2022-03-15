@@ -1,0 +1,12 @@
+[
+{
+	"name": "plasma",
+	"type": "mech",
+	"actorClassPath": "/SpecialVariants/Extensions/PlasmaMechExtension.PlasmaMechExtension_C"
+},
+{
+	"name": "trueg-weapons",
+	"type": "properties",
+	"actorClassPath": "/SpecialVariants/Extensions/trueg_WeaponsPropertyExtension.trueg_WeaponsPropertyExtension_C"
+}
+]
