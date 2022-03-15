@@ -31,6 +31,13 @@
 		],
 		"useSkinsFrom": "Mech.Assault.Marauderii.MAD-5A"
 	},
+	"MAD-RX": {
+		"quirks": [
+			"gunslinger",
+			"hyper-extending-actuators"
+		],
+		"useSkinsFrom": "Mech.Assault.Marauderii.MAD-5A"
+	},
 	"ZEU-X": {
 		"quirks": [
 			"dreadnaught",
