@@ -5,6 +5,12 @@
 		],
 		"useSkinsFrom": "Mech.Assault.Annihilator.ANH-2A"
 	},
+	"ANH-3A": {
+		"quirks": [
+			"hardened-plates"
+		],
+		"useSkinsFrom": "Mech.Assault.Annihilator.ANH-2A"
+	},
 	"ANH-SG": {
 		"quirks": [
 			"schwerer-gustav"
