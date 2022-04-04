@@ -115,11 +115,6 @@
 			}
 		}
 	},
-	"advancedSmallCockpit": {
-		"name": "Advanced Small Cockpit",
-		"description": "The Advanced Small Cockpit comes with upgraded controls and haptic systems, eliminating the classic issues of the 'cramped' small cockpits.\nFrees up one slot in the head.",
-		"properties": {}
-	},
 	"clan-mech": {
 		"name": "Clan",
 		"description": "The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.",

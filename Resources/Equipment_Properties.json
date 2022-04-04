@@ -33,7 +33,8 @@
 		},
 		"relativeWeight": 0.25,
 		"loreAccurate": false,
-		"fixed": true
+		"fixed": true,
+		"slots": 3
 	},
 	"LIGHT_ENGINE_300_FIXED": {
 		"fixed": true

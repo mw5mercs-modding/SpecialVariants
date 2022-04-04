@@ -62,7 +62,6 @@
 	},
 	"Conquistador_MDL": {
 		"quirks": [
-			"advancedSmallCockpit",
 			"RUGGED1",
 			"hardened-plates",
 			"high-pressure-cooling"
