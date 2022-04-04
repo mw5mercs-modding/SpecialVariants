@@ -5,6 +5,12 @@
 		],
 		"useSkinsFrom": "Mech.Assault.Annihilator.ANH-2A"
 	},
+	"ANH-SG": {
+		"quirks": [
+			"schwerer-gustav"
+		],
+		"useSkinsFrom": "Mech.Assault.Annihilator.ANH-2A"
+	},
 	"WHM-10K": {
 		"quirks": [
 			"high-pressure-cooling"

@@ -348,5 +348,29 @@
 		"properties": {
 			"armTwistAngleMulti": 1.3
 		}
-	}
+	},
+	"schwerer-gustav": {
+		"name": "Schwerer Gustav",
+		"description": "The 'Schwerer Gustav' hero FrankenMech",
+		"color": "(R=0.17,G=0.17,B=1.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 10,
+				"RightTorso": 10,
+				"LeftTorso": 10,
+				"RightArm": 8,
+				"LeftArm": 8
+			},
+			"incomingDamage": {
+				"groups": [{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"armorDamageMulti": 0.95,
+					"scope": "mech"
+				}]
+			}
+		}
+	}	
 }
