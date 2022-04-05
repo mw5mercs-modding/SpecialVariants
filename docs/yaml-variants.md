@@ -530,13 +530,12 @@ This document is supposed to list all variants that are available for [YetAnothe
 * TBT-7K (Vanilla)
 * TBT-7M (Vanilla)
 * TBT-LG (Vanilla)
-## UrbanMech
-* UM-R100 ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 ## Urbanlord
 * UBL-RX ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 ## Urbanmech
 * UM-AIV ([YetAnotherMechlabMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * UM-K9 (Vanilla)
+* UM-R100 ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * UM-R60 (Vanilla)
 * UM-R60L (Vanilla)
 * UM-R63 ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
@@ -587,7 +586,6 @@ This document is supposed to list all variants that are available for [YetAnothe
 * WHM-X ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 ## Warhammer IIC
 * Warhammer IIC 1 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
-* Warhammer IIC 10 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * Warhammer IIC 2 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * Warhammer IIC 3 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * Warhammer IIC 4 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
@@ -595,6 +593,7 @@ This document is supposed to list all variants that are available for [YetAnothe
 * Warhammer IIC 6 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * Warhammer IIC 8 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * Warhammer IIC 9 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
+* Warhammer IIC 10 ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * Warhammer IIC Maul ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 ## Wolfhound
 * WLF-1 (Vanilla)
