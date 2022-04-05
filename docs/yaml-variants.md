@@ -419,15 +419,14 @@ This document is supposed to list all variants that are available for [YetAnothe
 * PNT-9ALAG ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * PNT-9R (Vanilla)
 * PNT-KK (Vanilla)
-## PhoenixHawk
-* PXH-3D ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
-* PXH-3K ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
-* PXH-3M ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 ## Phoenixhawk
 * PXH-1 (Vanilla)
 * PXH-1B (Vanilla)
 * PXH-1K (Vanilla)
 * PXH-2 (Vanilla)
+* PXH-3D ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
+* PXH-3K ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
+* PXH-3M ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * PXH-3S (Vanilla)
 * PXH-KB (Vanilla)
 * PXH-KK (Vanilla)
