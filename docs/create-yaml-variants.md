@@ -27,7 +27,7 @@ For simplicity and easy scripting these assets should follow a consistent naming
 
 ## Step 1: Choose a Variant
 
-The first step is the simplest: choose the variant you want to create. Ideally not one already contained in YAML, it's mech mod, Mace's lore-accurate variants mod or even trueg's SpecialVariants. Good sources for variants and their loadouts are [the Sarna Battletech wiki](https://www.sarna.net/wiki/Main_Page), [Roguetech's excellent mech documentation](https://roguetech.fandom.com/wiki/Mechs) and (http://megameklab.sourceforge.net/)[Megameklab].
+The first step is the simplest: choose the variant you want to create. Ideally not one already contained in YAML, it's mech mod, Mace's lore-accurate variants mod or even trueg's SpecialVariants. Good sources for variants and their loadouts are [the Sarna Battletech wiki](https://www.sarna.net/wiki/Main_Page), [Roguetech's excellent mech documentation](https://roguetech.fandom.com/wiki/Mechs) and [MegaMekLab](http://megameklab.sourceforge.net/).
 
 See the list of [existing YAML variants](yaml-variants.md) to make sure you do not duplicate work.
 
