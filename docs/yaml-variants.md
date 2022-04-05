@@ -269,12 +269,11 @@ This document is supposed to list all variants that are available for [YetAnothe
 * GRF-3M (Vanilla)
 * GRF-5M ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * GRF-AR (Vanilla)
-## Hatamoto
-* HTM-27U ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
-* HTM-27Y ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 ## Hatamotochi
 * HTM-26T (Vanilla)
 * HTM-27T (Vanilla)
+* HTM-27U ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
+* HTM-27Y ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * HTM-27W (Vanilla)
 * HTM-28TR ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * HTM-SG ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
