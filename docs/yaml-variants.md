@@ -12,6 +12,7 @@ This document is supposed to list all variants that are available for [YetAnothe
 * ANH-2AX ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * ANH-3A ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * ANH-MB ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
+* ANH-SG (Schwerer Gustav) ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 ## Archer
 * ARC-2K (Vanilla)
 * ARC-2R (Vanilla)
@@ -372,6 +373,7 @@ This document is supposed to list all variants that are available for [YetAnothe
 * MAD-6S ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * MAD-8K ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 * MAD-AL ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
+* MAD-RX ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 ## Marauder IIC
 * MAD-IIC-2 ([YetAnotherMechlabMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * MAD-IIC-2X ([YetAnotherMechlabMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
@@ -612,6 +614,7 @@ This document is supposed to list all variants that are available for [YetAnothe
 * WVR-7K ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * WVR-7M ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * WVR-Q (Vanilla)
+* WVR-X ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 ## Zeus
 * ZEU-5S (Vanilla)
 * ZEU-5T (Vanilla)
