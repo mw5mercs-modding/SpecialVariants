@@ -91,6 +91,14 @@ This document is supposed to list all variants that are available for [YetAnothe
 * BJ-3 (Vanilla)
 * BJ-4 ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * BJ-A (Vanilla)
+## Blackjack Omni
+* BJ2-O ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* BJ2-OA ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* BJ2-OB ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* BJ2-OC ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* BJ2-OD ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* BJ2-OD ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* BJ2-OE ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
 ## Blackknight
 * BL-6-KNT (Vanilla)
 * BL-6-KNT ([YetAnotherMechlabMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
@@ -221,6 +229,16 @@ This document is supposed to list all variants that are available for [YetAnothe
 * FS9-S1 (Vanilla)
 * FS9-S2 ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * FS9-S3 ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
+## Firestarter Omni
+* FS9-O ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* FS9-OA ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* FS9-OB ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* FS9-OC ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* FS9-OD ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* FS9-OE ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* FS9-OF ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* FS9-OG ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* FS9-OH ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
 ## Flea
 * FLE-14 ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * FLE-15 (Vanilla)
@@ -385,6 +403,13 @@ This document is supposed to list all variants that are available for [YetAnothe
 * ON1-VA (Vanilla)
 * ON1-YAJ (Vanilla)
 * ON2-M ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
+## Owens
+* OW-1 ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* OW-1A ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* OW-1B ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* OW-1C ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* OW-1D ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* OW-1E ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
 ## Panther
 * PNT-10K ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * PNT-10P (Vanilla)
@@ -438,6 +463,16 @@ This document is supposed to list all variants that are available for [YetAnothe
 * RFL-DB (Vanilla)
 * RFL-DNA (Vanilla)
 * RFL-LK (Vanilla)
+## Savage Wolf
+* SVG-5 ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
+* SVG-A ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
+* SVG-B ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
+* SVG-C ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
+* SVG-D ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
+* SVG-D1CK1E ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
+* SVG-E ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
+* SVG-F ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
+* SVG-S ([Savage Wolf YAML](https://www.nexusmods.com/mechwarrior5mercenaries/mods/645))
 ## Shadowhawk
 * SHD-2D (Vanilla)
 * SHD-2D2 (Vanilla)
@@ -462,6 +497,17 @@ This document is supposed to list all variants that are available for [YetAnothe
 * STK-5M ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * STK-5S ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * STK-M (Vanilla)
+# Strider
+* SR1-O ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* SR1-OB ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* SR1-OC ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* SR1-OD ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* SR1-OE ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+## Templar
+* TLR1-O ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* TLR1-OA ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* TLR1-OB ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
+* TLR1-OC ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
 ## Thug
 * THG-10E ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
 * THG-11E ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
