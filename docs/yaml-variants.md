@@ -386,8 +386,6 @@ This document is supposed to list all variants that are available for [YetAnothe
 * MAL-2P (Vanilla)
 * MAL-KO (Vanilla)
 * MAL-MX90 (Vanilla)
-## Model
-* TDR-9S ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 ## Nightstar
 * NSR-10P ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * NSR-9FC ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
@@ -521,6 +519,7 @@ This document is supposed to list all variants that are available for [YetAnothe
 * TDR-5SE (Vanilla)
 * TDR-5SS (Vanilla)
 * TDR-7M ([Lore-based Mech Variants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/493))
+* TDR-9S ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * TDR-9SE (Vanilla)
 * TDR-E5 ERIS ([SpecialVariants](https://www.nexusmods.com/mechwarrior5mercenaries/mods/649))
 ## Trebuchet
