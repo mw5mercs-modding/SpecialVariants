@@ -497,7 +497,7 @@ This document is supposed to list all variants that are available for [YetAnothe
 * STK-5M ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * STK-5S ([YetAnotherMechlab](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * STK-M (Vanilla)
-# Strider
+## Strider
 * SR1-O ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
 * SR1-OB ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
 * SR1-OC ([OmniCore - Inner Sphere OmniMechs](https://www.nexusmods.com/mechwarrior5mercenaries/mods/257))
