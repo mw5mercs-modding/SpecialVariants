@@ -69,7 +69,9 @@
 	"TDR-E5 ERIS": {
 		"quirks": [
 			"TDR-E5-ERIS"
-		],
+		]
+	},
+	"TDR-E5": {
 		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
 	},
 	"Conquistador_MDL": {
