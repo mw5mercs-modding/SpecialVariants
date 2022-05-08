@@ -184,21 +184,32 @@
 							"Weapon.Missile",
 							"Weapon.ArtemisMissile"
 						],
-						"cooldownMulti": 0.9
-					},
-					{
-						"weaponGroupName": "Standard SRM",
-						"tags": [
-							"Weapon.Missile.SRM"
-						],
-						"spreadRadiusMulti": 0.9
+						"spreadRadiusMulti": 0.8
 					},
 					{
 						"weaponGroupName": "Machine Gun",
 						"tags": [
 							"Weapon.Ballistic.MG"
 						],
-						"speedMulti": 1.2
+						"damageMulti": 1.4
+					},
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.9,
+						"speedMulti": 1.1
+					},
+					{
+						"weaponGroupName": "Energy",
+						"tags": [
+							"Weapon.Energy"
+						],
+						"heatMulti": 0.9,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1,
+						"damageMulti": 1.1
 					}
 				]
 			}
