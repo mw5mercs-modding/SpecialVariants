@@ -50,6 +50,13 @@
 		],
 		"useSkinsFrom": "Mech.Assault.Marauderii.MAD-5A"
 	},
+	"MAD-RSC": {
+		"quirks": [
+			"dreadnaught",
+			"matar"
+		],
+		"useSkinsFrom": "Mech.Assault.Marauderii.MAD-5A"
+	},
 	"ZEU-X": {
 		"quirks": [
 			"dreadnaught",

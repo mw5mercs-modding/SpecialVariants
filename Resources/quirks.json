@@ -55,6 +55,7 @@
 	"gunslinger": {
 		"name": "Gunslinger",
 		"description": "The gunslinger has improved stability for ballistic weapons.",
+		"color": "(R=0.592,G=0.341,B=0.169,A=1)",
 		"properties": {
 			"weapons": {
 				"groups": [
@@ -73,6 +74,7 @@
 	"dreadnaught": {
 		"name": "Dreadnaught",
 		"description": "Improved Damage resistance.",
+		"color": "(R=0.9,G=0.0,B=0.0,A=1)",
 		"properties": {
 			"incomingDamage": {
 				"groups": [{
@@ -80,7 +82,7 @@
 					"tags": [
 						"Weapon"
 					],
-					"armorDamageMulti": 0.95,
+					"armorDamageMulti": 0.92,
 					"scope": "mech"
 				}]
 			}
@@ -383,5 +385,23 @@
 				}]
 			}
 		}
-	}	
+	},
+	"matar": {
+		"name": "Wannabe Matar",
+		"description": "This 'mech would like to be a Matar, a powerful rhino, crushing everything in its path.\nSadly, it was born a mere Marauder II. It comes, however, with built-in gauss bonuses and predictive targeting.",
+		"color": "(R=0.55,G=0.57,B=0.675,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [{
+					"weaponGroupName": "Gauss",
+					"tags": [
+						"Weapon.Ballistic.GaussRifle"
+					],
+					"damageMulti": 1.15,
+					"cooldownMulti": 0.95
+				}]
+			},
+			"predictiveTargeting": true
+		}
+	}
 }
