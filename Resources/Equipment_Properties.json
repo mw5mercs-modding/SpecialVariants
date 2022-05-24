@@ -42,12 +42,6 @@
 	"Equipment.Ammo.Double": {
 		"rarity": 0.3
 	},
-	"CLAN_XXL400": {
-		"fillerSlots": {
-			"LeftTorso": 4,
-			"RightTorso": 4
-		}
-	},
 	"ARMOR_GLADIATOR": {
 		"description": "Hardened Armor is a thicker armor type that uses multiple overlapping plates to provide additional protection against enemy fire. Though capable of diverting more damage than standard armor, the increased number of armor plates and their lack of flexibility makes any unit employing it more difficult to pilot, and can affect the speed as well.\n\nActivatable integrated Supercharger: Deals damage and crit to center torso on failure.",
 		"fixed": true,
@@ -97,5 +91,17 @@
 	"COCKPIT_RISC_FIXED": {
 		"fixed": true,
 		"armorComponentFront": 5
+	},
+	"trueg_SPINAL_MOUNT_HGR": {
+		"fillerSlots": {
+			"LeftTorso": 3,
+			"RightTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftTorso",
+			"RightTorso"
+		]
 	}
 }
