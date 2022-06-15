@@ -125,18 +125,7 @@
 			"topSpeedMulti": 1.067,
 			"accelerationMulti": 1.1,
 			"turnSpeedMulti": 1.1,
-			"upkeepCostMulti": 1.2,
-			"weapons": {
-				"groups": [
-					{
-						"weaponGroupName": "Melee",
-						"tags": [
-							"Weapon.Melee"
-						],
-						"damageMulti": 0.7
-					}
-				]
-			}
+			"upkeepCostMulti": 1.2
 		}
 	},
 	"gungnir": {
