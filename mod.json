@@ -1,16 +1,16 @@
 {
-	"displayName": "Special Variants",
-	"version": "1.7",
-	"buildNumber": 239,
-	"description": "This mod adds a selection of new variants sporting equipment from both the \"Equipment Collection formerly known as Harjel\" and \"Heat Sink Kits\".\r\n\r\nMost of the mechs are lore-accurate, some, however, are shamelessly ripped off of Roguetech, the greatest game ever!\r\n\r\nIncluded Normalish Variants\r\n\r\n- Annihilatior ANH-2AX\r\n- Black Knight BL-S7 Gladiator (RT)\r\n- Cataphract CTF-5L\r\n- Marauder MAD-S7 (RT)\r\n- Marauder II MAD-8K\r\n- Panther PNT-14R\r\n- Rifleman RFL-3CR\r\n- Thunderbolt TDR-12R\r\n- Thunderbolt TDR-E5 ERIS (RT)\r\n- Warhammer WHM-10K\r\n- Warhammer WHM-66 (RT)\r\n- Warhammer WHM-X (RT)\r\n- Wolverine WVR-X (RT)\r\n- Zeus ZEU-X\r\n\r\nReal Special Variants\r\n\r\n- Conquistador BLK-O (an RT omni variant of the Black Knight with fixed harjel structure and engine. Not a real omni here since I do not have the hardpoint models yet.)\r\n- Conquistador BLK-OA\r\n- Conquistador BLK-OB\r\n- Conquistador BLK-OC\r\n- Warhammer IIC (just a rescale of the normal Warhammer but I just love the Warhammer so I had to add this.)\r\n- Warhammer IIC 2\r\n- Warhammer IIC 3\r\n- Warhammer IIC 4\r\n- Warhammer IIC 5\r\n- Warhammer IIC 6\r\n- Warhammer IIC 8\r\n- Warhammer IIC 9\r\n- Warhammer IIC 10\r\n- Warhammer IIC Maul Hero Mech\r\n- Warhammer IIC RAC Hero Mech (my own creation sporting 4 RAC/2s to shred everything)\r\n- The april fool's joke that has gone too far: the Urbanlord UBL-RX (RT) in all its pink glory\r\n- Hunchback IIC, IIC-2, IIC-3, IIC-4, IIC-5 (thanks to Mace24 for the weapon models. Also Check his lore-accurate variants mod!)\r\n- Hunchback IIC Deathwish Hero Mech\r\n\r\nAdditional Stuff\r\n\r\n- Thunderbolt 5, 10, 15, 20 launchers (thank you Silby)",
-	"author": "trueg",
-	"authorURL": "",
-	"defaultLoadOrder": 5,
-	"gameVersion": "1.1.0",
-	"manifest": [
-		"/Game/Objects/Mechs/Wolverine/Model/Wolverine_HPS.uasset"
-	],
-	"steamPublishedFileId": 2752897895,
-	"steamLastSubmittedBuildNumber": 239,
-	"steamModVisibility": "Public"
+   "displayName" : "Special Variants",
+   "version" : "1.7.1",
+   "buildNumber" : 241,
+   "description" : "This mod adds a selection of new variants sporting equipment from both the \"Equipment Collection formerly known as Harjel\" and \"Heat Sink Kits\".\r\n\r\nMost of the mechs are lore-accurate, some, however, are shamelessly ripped off of Roguetech, the greatest game ever!\r\n\r\nIncluded Normalish Variants\r\n\r\n- Annihilatior ANH-2AX\r\n- Black Knight BL-S7 Gladiator (RT)\r\n- Cataphract CTF-5L\r\n- Marauder MAD-S7 (RT)\r\n- Marauder II MAD-8K\r\n- Panther PNT-14R\r\n- Rifleman RFL-3CR\r\n- Thunderbolt TDR-12R\r\n- Thunderbolt TDR-E5 ERIS (RT)\r\n- Warhammer WHM-10K\r\n- Warhammer WHM-66 (RT)\r\n- Warhammer WHM-X (RT)\r\n- Wolverine WVR-X (RT)\r\n- Zeus ZEU-X\r\n\r\nReal Special Variants\r\n\r\n- Conquistador BLK-O (an RT omni variant of the Black Knight with fixed harjel structure and engine. Not a real omni here since I do not have the hardpoint models yet.)\r\n- Conquistador BLK-OA\r\n- Conquistador BLK-OB\r\n- Conquistador BLK-OC\r\n- Warhammer IIC (just a rescale of the normal Warhammer but I just love the Warhammer so I had to add this.)\r\n- Warhammer IIC 2\r\n- Warhammer IIC 3\r\n- Warhammer IIC 4\r\n- Warhammer IIC 5\r\n- Warhammer IIC 6\r\n- Warhammer IIC 8\r\n- Warhammer IIC 9\r\n- Warhammer IIC 10\r\n- Warhammer IIC Maul Hero Mech\r\n- Warhammer IIC RAC Hero Mech (my own creation sporting 4 RAC/2s to shred everything)\r\n- The april fool's joke that has gone too far: the Urbanlord UBL-RX (RT) in all its pink glory\r\n- Hunchback IIC, IIC-2, IIC-3, IIC-4, IIC-5 (thanks to Mace24 for the weapon models. Also Check his lore-accurate variants mod!)\r\n- Hunchback IIC Deathwish Hero Mech\r\n\r\nAdditional Stuff\r\n\r\n- Thunderbolt 5, 10, 15, 20 launchers (thank you Silby)",
+   "author" : "trueg",
+   "authorURL" : "",
+   "defaultLoadOrder" : 5,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Objects/Mechs/Wolverine/Model/Wolverine_HPS.uasset"
+   ],
+   "steamPublishedFileId" : 2752897895,
+   "steamLastSubmittedBuildNumber" : "241",
+   "steamModVisibility" : "Public"
 }
