@@ -392,5 +392,28 @@
 			},
 			"predictiveTargeting": true
 		}
+	},
+	"focus-fire-arms": {
+		"name": "Focus Fire",
+		"description": "This 'mech has improved handling of arm-mounted weapons.",
+		"color": "(R=0.592,G=0.341,B=0.169,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [{
+					"weaponGroupName": "Arm-mounted weapon",
+					"mechParts": [
+						"LeftArm",
+						"RightArm"
+					],
+					"tags": [
+						"Weapon"
+					],
+					"cooldownMulti": 0.8,
+					"jamChanceBonus": -0.1,
+					"spreadRadiusMulti": 0.9,
+					"spreadDistanceMulti": 1.1
+				}]
+			}
+		}
 	}
 }
