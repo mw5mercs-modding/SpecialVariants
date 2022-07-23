@@ -125,7 +125,8 @@
 			"topSpeedMulti": 1.067,
 			"accelerationMulti": 1.1,
 			"turnSpeedMulti": 1.1,
-			"upkeepCostMulti": 1.2
+			"upkeepCostMulti": 1.2,
+			"caseLevel": 1
 		}
 	},
 	"gungnir": {
