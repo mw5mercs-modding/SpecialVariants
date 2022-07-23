@@ -119,7 +119,7 @@
 	},
 	"clan-mech": {
 		"name": "Clan",
-		"description": "The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.",
+		"description": "The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.\n\nC.A.S.E. protection on all components.",
 		"color": "(R=0.484,G=0.336,B=0.012,A=1)",
 		"properties": {
 			"topSpeedMulti": 1.067,
