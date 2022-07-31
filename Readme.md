@@ -8,10 +8,19 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 ## Included Normalish Variants
 
 - Annihilatior **ANH-2AX**
-- Black Knight **BL-S7 Gladiator** (RT)
+- Annihilatior **ANH-3A**
+- Annihilator **ANH-SG** (Schwerer Gustav)
+- Black Knight **BL-S7** Gladiator (RT)
 - Cataphract **CTF-5L**
+- Jagermech **JM6-JO** (RT)
+- Jagermech **JM7-C3BS**
+- Jagermech **JM7-D**
+- Jagermech **JM7-F**
+- Jagermech **JM7-G**
 - Marauder **MAD-S7** (RT)
 - Marauder II **MAD-8K**
+- Marauder II **MAD-RX** (RT's RISC version sporting a big RAC/20)
+- Marauder II **MAD-RSC** (supposed to be RT's Matar but I do not have a Stone Rhino model)
 - Panther **PNT-14R**
 - Rifleman **RFL-3CR**
 - Thunderbolt **TDR-12R**
@@ -21,6 +30,7 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 - Warhammer **WHM-X** (RT)
 - Wolverine **WVR-X** (RT)
 - Zeus **ZEU-X**
+- The april fool's joke that has gone too far: the **Urbanlord UBL-RX** (RT) in all its pink glory
 
 ## Real Special Variants
 
@@ -39,12 +49,11 @@ Most of the mechs are lore-accurate, some, however, are shamelessly ripped off o
 - **Warhammer IIC 10**
 - **Warhammer IIC Maul** Hero Mech
 - **Warhammer IIC RAC** Hero Mech (my own creation sporting 4 RAC/2s to shred everything)
-- The april fool's joke that has gone too far: the **Urbanlord UBL-RX** (RT) in all its pink glory
 - **Hunchback IIC, IIC-2, IIC-3, IIC-4, IIC-5** (thanks to Mace24 for the weapon models. Also Check his lore-accurate variants mod!)
 - **Hunchback IIC Deathwish** Hero Mech
 
 ## Additional Stuff
 
-- Thunderbolt 5, 10, 15, 20 launchers (thank you Silby)
-- Clan Plasma Cannon (heat damage only)
-- Double bins for all vanilla, YAW and YAWC ammo types (2 slots, 2 tons, 2.5 times the ammo)
+- **Thunderbolt 5, 10, 15, 20** launchers (thank you Silby)
+- **Advanced AMS** and **AMS Mk2**
+- **Clan Plasma Cannon** (heat damage only)
