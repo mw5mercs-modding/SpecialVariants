@@ -11,7 +11,7 @@ def get_primary_asset_id(path):
 srcVariant = "NSR-9S"
 destVariant = "NSR-9JC"
 
-src_location = "/YetAnotherMechlab/Content/Mechs/Nightstar/"
+src_location = "/SpecialVariants/Objects/Mechs/Nightstar/"
 dest_location = "/SpecialVariants/Objects/Mechs/Nightstar/"
 
 with unreal.ScopedEditorTransaction("Clone Variant Script") as trans:
