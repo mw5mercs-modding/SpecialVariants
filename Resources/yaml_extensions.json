@@ -8,5 +8,10 @@
 	"name": "trueg-weapons",
 	"type": "properties",
 	"actorClassPath": "/SpecialVariants/Extensions/trueg_WeaponsPropertyExtension.trueg_WeaponsPropertyExtension_C"
+},
+{
+	"name": "special-variants-global-misc",
+	"type": "global",
+	"actorClassPath": "/SpecialVariants/Extensions/SpecialVariantsGlobalMisc.SpecialVariantsGlobalMisc_C"
 }
 ]
