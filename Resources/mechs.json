@@ -153,7 +153,8 @@
 		"quirks": [
 			"gungnir"
 		],
-		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R"
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R",
+		"aiMechRole": "Juggernaut"
 	},
 	"UBL-RX": {
 		"quirks": [
@@ -213,6 +214,16 @@
 	"JM7-C3BS": {
 		"quirks": [
 			"focus-fire-arms"
+		]
+	},
+	"DireWolf-Prime": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"BKL-Prime": {
+		"quirks": [
+			"clan-mech"
 		]
 	}
 }
