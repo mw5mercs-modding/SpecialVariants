@@ -216,12 +216,22 @@
 			"focus-fire-arms"
 		]
 	},
-	"DireWolf-Prime": {
+	"DIREWOLF-PRIME": {
 		"quirks": [
 			"clan-mech"
 		]
 	},
-	"BKL-Prime": {
+	"BKL-PRIME": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"MADDOG-PRIME": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"COUGAR-PRIME": {
 		"quirks": [
 			"clan-mech"
 		]
