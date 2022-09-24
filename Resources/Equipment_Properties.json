@@ -26,6 +26,10 @@
 			"BLACK_CARAPACE"
 		]
 	},
+	"OMNI_GYRO_FIXED": {
+		"loreAccurate": false,
+		"fixed": true
+	},
 	"OMNI_GYRO_XXL": {
 		"fillerSlots": {
 			"LeftTorso": 2,
@@ -43,6 +47,15 @@
 		},
 		"engineHealthType": "light",
 		"engineRelativeWeight": -0.25
+	},
+	"ENGINE_XL_CLAN_FIXED": {
+		"fixed": true,
+		"fillerSlots": {
+			"LeftTorso": 2,
+			"RightTorso": 2
+		},
+		"engineHealthType": "light",
+		"engineRelativeWeight": -0.5
 	},
 	"ENGINE_CORE_300_FIXED": {
 		"fixed": true
