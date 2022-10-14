@@ -182,6 +182,11 @@
 			"BATTLEFISTS"
 		]
 	},
+	"HBK-4X": {
+		"quirks": [
+			"HEAVY_GUNNER_RT"
+		]
+	},
 	"HBK-IIC-1": {
 		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
 	},
