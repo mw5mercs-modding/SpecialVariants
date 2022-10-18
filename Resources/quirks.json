@@ -433,7 +433,7 @@
 					"damageMulti": 1.15,
 					"heatMulti": 0.9,
 					"cooldownMulti": 0.8,
-					"jamChanceBonus": -0.05,
+					"jamChanceMulti": 0.85,
 					"spreadRadiusMulti": 0.9,
 					"spreadDistanceMulti": 1.1
 				}]
