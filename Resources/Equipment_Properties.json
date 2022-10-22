@@ -176,5 +176,45 @@
 			"LeftTorso",
 			"RightTorso"
 		]
+	},
+	"ARMOR_STANDARD_CLAN_FIXED": {
+		"fixed": true,
+		"caseLevel": 1,
+		"armorPerTon": 32
+	},
+	"SOLARIS_XXL_ENGINE_FIXED": {
+		"fixed": true,
+		"fillerSlots": {
+			"LeftTorso": 6,
+			"RightTorso": 6
+		},
+		"engineHealthType": "xxl",
+		"engineRelativeWeight": -0.66666666,
+		"movementHeatMulti": 3.0,
+		"topSpeedMulti": 1.15,
+		"equipmentToggle": "ToggleCockpitHotseat",
+		"activeProperties": {
+			"heat": 1,
+			"heatBuildup": 0.06,
+			"heatDissipation": 0.1,
+			"tsmMulti": 1.4,
+			"topSpeedMulti": 1.4
+		},
+		"mechConflicts": [
+			"TSMYOMER",
+			"TSMYOMER_H",
+			"TSMYOMER_L",
+			"TSMYOMER_M",
+			"MASC_MKI",
+			"MASC_MKII",
+			"MASC_MKIII",
+			"MASC_MKIV",
+			"MASC_MKV",
+			"Equipment.MASC",
+			"HYBRID_TSM_QS",
+			"COCKPIT_HOTSEAT",
+			"ENDO_TSM"
+		],
+		"salvageInto": "MWHeatSinkDataAsset:COCKPIT_HOTSEAT"
 	}
 }

@@ -439,5 +439,24 @@
 				}]
 			}
 		}
+	},
+	"REINFORCED_ARMS": {
+		"name": "Reinforced Arms",
+		"description": "'Mech arms tend to fall off, so this one has an extra layer of ferro plates bolted to them.",
+		"properties": {
+			"armorBonus": {
+				"LeftArm": 10,
+				"RightArm": 10
+			}
+		}
+	},
+	"HEAT_RESISTANT": {
+		"name": "Heat resistant",
+		"description": "This 'mech is coated in a thin layer of cooling lines which help in spreading external heat much more efficiently.",
+		"properties": {
+			"incomingDamage": {
+				"heatMulti": 0.7
+			}
+		}
 	}
 }

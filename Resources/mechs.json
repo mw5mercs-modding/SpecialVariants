@@ -187,6 +187,13 @@
 			"HEAVY_GUNNER_RT"
 		]
 	},
+	"HBK-S7": {
+		"quirks": [
+			"melee-actuators",
+			"EASY-PILOT",
+			"HEAT_RESISTANT"
+		]
+	},
 	"HBK-IIC-1": {
 		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
 	},
@@ -239,6 +246,12 @@
 	"COUGAR-PRIME": {
 		"quirks": [
 			"clan-mech"
+		]
+	},
+	"SHD-S7": {
+		"quirks": [
+			"melee-actuators",
+			"REINFORCED_ARMS"
 		]
 	}
 }
