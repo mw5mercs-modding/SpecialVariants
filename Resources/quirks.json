@@ -458,5 +458,36 @@
 				"heatMulti": 0.7
 			}
 		}
+	},
+	"STABLE_RIGHT_ARM": {
+		"name": "Stable Right Arm",
+		"description": "The Urbanlord's right arm has been stabalized and re-inforced for optimized weapon handling.",
+		"properties": {
+			"weapons": {
+				"groups": [{
+					"weaponGroupName": "Right arm weapons",
+					"mechParts": [
+						"RightArm"
+					],
+					"tags": [
+						"Weapon"
+					],
+					"damageMulti": 1.1,
+					"cooldownMulti": 0.8,
+					"jamChanceMulti": 0.8
+				}]
+			},
+			"armorBonus": {
+				"RightArm": 10
+			}
+		}
+	},
+	"CAN_T_TOUCH_THIS": {
+		"name": "Can't touch this!",
+		"description": "Break it down...",
+		"color": "(R=1,G=0.84,B=0,A=1)",
+		"properties": {
+			"evasionSkillBonus": 3
+		}
 	}
 }

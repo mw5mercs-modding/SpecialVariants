@@ -158,7 +158,10 @@
 	},
 	"UBL-RX": {
 		"quirks": [
-			"360twist"
+			"360twist",
+			"STABLE_RIGHT_ARM",
+			"EASY-PILOT",
+			"CAN_T_TOUCH_THIS"
 		],
 		"scale": "X=1.5 Y=1.5 Z=1.5",
 		"useSkinsFrom": "Mech.Light.Urbanmech.UM-R60"
