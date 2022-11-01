@@ -76,7 +76,8 @@
 	"TDR-E5 ERIS": {
 		"quirks": [
 			"TDR-E5-ERIS"
-		]
+		],
+		"scale": "X=1.07 Y=1.07 Z=1.07"
 	},
 	"TDR-E5": {
 		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
