@@ -154,9 +154,9 @@
 			}
 		}
 	},
-	"WMR-IIC-ML": {
-		"name": "Warhammer IIC Maul",
-		"description": "Warhammer IIC Maul Hero Quirk",
+	"WMR-IIC-HERO-ARMOR": {
+		"name": "Warhammer IIC Hero Armor",
+		"description": "The Warhammer IIC Hero comes with higher density armor.",
 		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
 		"properties": {
 			"armorBonus": {
@@ -167,7 +167,14 @@
 				"LeftArm": 4,
 				"RightLeg": 4,
 				"LeftLeg": 4
-			},
+			}
+		}
+	},
+	"WMR-IIC-ML": {
+		"name": "Warhammer IIC Maul",
+		"description": "Warhammer IIC Maul Hero Quirk",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
 			"weapons": {
 				"groups": [
 					{
@@ -207,9 +214,42 @@
 			}
 		}
 	},
-	"WMR-IIC-RAC": {
-		"name": "RAC-Hammer",
-		"description": "Warhammer IIC \"RAC-Hammer\" Hero Quirk",
+	"WMR-IIC-BL": {
+		"name": "Warhammer IIC Bludgeon",
+		"description": "Warhammer IIC Bludgeon Hero Quirk",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"speedMulti": 1.15
+					},
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"cooldownMulti": 0.85
+					},
+					{
+						"weaponGroupName": "ATM",
+						"tags": [
+							"Weapon.ArtemisMissile.ATM"
+						],
+						"heatMulti": 0.95
+					}
+				]
+			}
+		}
+	},
+	"WMR-IIC-RAC-ARMOR": {
+		"name": "Warhammer IIC Hero Armor",
+		"description": "The Warhammer IIC RAC Hero comes with higher density armor.",
 		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
 		"properties": {
 			"armorBonus": {
@@ -220,7 +260,14 @@
 				"LeftArm": 8,
 				"RightLeg": 8,
 				"LeftLeg": 8
-			},
+			}
+		}
+	},
+	"WMR-IIC-RAC": {
+		"name": "RAC-Hammer",
+		"description": "Warhammer IIC \"RAC-Hammer\" Hero Quirk",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
 			"weapons": {
 				"groups": [
 					{
@@ -228,7 +275,7 @@
 						"tags": [
 							"Weapon.Ballistic.AutoCannon.Rotary"
 						],
-						"jamChanceBonus": -0.05,
+						"jamChanceMulti": 0.9,
 						"heatMulti": 0.9,
 						"damageMulti": 1.2
 					}
@@ -410,7 +457,7 @@
 						"Weapon"
 					],
 					"cooldownMulti": 0.8,
-					"jamChanceBonus": -0.05,
+					"jamChanceMulti": 0.95,
 					"spreadRadiusMulti": 0.9,
 					"spreadDistanceMulti": 1.1
 				}]

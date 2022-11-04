@@ -105,47 +105,31 @@
 		"useSkinsFrom": "Mech.Heavy.Rifleman.RFL-3C"
 	},
 	"Warhammer_IIC_MDL": {
+		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R",
 		"quirks": [
 			"high-pressure-cooling",
 			"clan-mech"
 		],
 		"scale": "X=1.1 Y=1.1 Z=1.1"
 	},
-	"WMR-IIC-1": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
-	"WMR-IIC-2": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
-	"WMR-IIC-3": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
-	"WMR-IIC-4": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
-	"WMR-IIC-5": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
-	"WMR-IIC-6": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
-	"WMR-IIC-8": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
-	"WMR-IIC-9": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
-	"WMR-IIC-10": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
-	},
 	"WMR-IIC-ML": {
 		"quirks": [
+			"WMR-IIC-HERO-ARMOR",
 			"WMR-IIC-ML"
+		],
+		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+	},
+	"WMR-IIC-BL": {
+		"quirks": [
+			"WMR-IIC-HERO-ARMOR",
+			"WMR-IIC-BL",
+			"SEARCHLIGHT"
 		],
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
 	},
 	"WMR-IIC-RAC": {
 		"quirks": [
+			"WMR-IIC-RAC-ARMOR",
 			"WMR-IIC-RAC"
 		],
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
