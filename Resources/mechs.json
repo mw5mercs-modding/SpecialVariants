@@ -216,26 +216,6 @@
 			"focus-fire-arms"
 		]
 	},
-	"DIREWOLF-PRIME": {
-		"quirks": [
-			"clan-mech"
-		]
-	},
-	"BKL-PRIME": {
-		"quirks": [
-			"clan-mech"
-		]
-	},
-	"MADDOG-PRIME": {
-		"quirks": [
-			"clan-mech"
-		]
-	},
-	"COUGAR-PRIME": {
-		"quirks": [
-			"clan-mech"
-		]
-	},
 	"SHD-S7": {
 		"quirks": [
 			"melee-actuators",

@@ -26,10 +26,6 @@
 			"BLACK_CARAPACE"
 		]
 	},
-	"OMNI_GYRO_FIXED": {
-		"loreAccurate": false,
-		"fixed": true
-	},
 	"OMNI_GYRO_XXL": {
 		"fillerSlots": {
 			"LeftTorso": 2,
@@ -46,16 +42,9 @@
 			"RightTorso": 2
 		},
 		"engineHealthType": "light",
-		"engineRelativeWeight": -0.25
-	},
-	"ENGINE_XL_CLAN_FIXED": {
-		"fixed": true,
-		"fillerSlots": {
-			"LeftTorso": 2,
-			"RightTorso": 2
-		},
-		"engineHealthType": "light",
-		"engineRelativeWeight": -0.5
+		"engineRelativeWeight": -0.25,
+		"movementHeatMulti": 0.9,
+		"salvageInto": "MWHeatSinkDataAsset:ENGINE_LIGHT"
 	},
 	"ENGINE_CORE_300_FIXED": {
 		"fixed": true
@@ -176,11 +165,6 @@
 			"LeftTorso",
 			"RightTorso"
 		]
-	},
-	"ARMOR_STANDARD_CLAN_FIXED": {
-		"fixed": true,
-		"caseLevel": 1,
-		"armorPerTon": 32
 	},
 	"SOLARIS_XXL_ENGINE_FIXED": {
 		"fixed": true,
