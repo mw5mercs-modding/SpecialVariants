@@ -536,5 +536,34 @@
 		"properties": {
 			"evasionSkillBonus": 3
 		}
+	},
+	"WHM-X7-LICH": {
+		"name": "The Lich",
+		"description": "Piloted by Francis Indigo, this custom version used Experimental Technology to make a fearsome arena fighter.",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"cooldownMulti": 0.8,
+						"speedMulti": 1.2
+					},
+					{
+						"weaponGroupName": "Energy",
+						"tags": [
+							"Weapon.Energy"
+						],
+						"heatMulti": 0.95,
+						"dmgMulti": 1.1
+					}
+				]
+			},
+			"topSpeedMulti": 1.1,
+			"turnSpeedMulti": 1.2
+		}
 	}
 }

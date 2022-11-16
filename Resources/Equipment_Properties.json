@@ -200,5 +200,57 @@
 			"ENDO_TSM"
 		],
 		"salvageInto": "MWHeatSinkDataAsset:COCKPIT_HOTSEAT"
+	},
+	"LICH_HYBRID_STRUCTURE": {
+		"fixed": true,
+		"structureWeightMulti": 0.9,
+		"structureMulti": 1.2,
+		"incomingDamage": {
+			"groups": [
+				{
+					"weaponGroupName": "Laser",
+					"tags": [
+						"Weapon.Energy.Laser"
+					],
+					"structureDamageMulti": 1.1,
+					"scope": "mech"
+				},
+				{
+					"weaponGroupName": "Kinetik",
+					"tags": [
+						"Weapon.Energy.ParticleCannon",
+						"Weapon.Ballistic",
+						"Weapon.Missile",
+						"Weapon.ArtemisMissile"
+					],
+					"structureDamageMulti": 0.7,
+					"scope": "mech"
+				}
+			]
+		},
+		"caseLevel": 2,
+		"case2MaxDmg": 6,
+		"caseScope": "mech",
+		"fillerSlots": {
+			"LeftTorso": 1,
+			"RightTorso": 1,
+			"LeftLeg": 1,
+			"RightLeg": 1,
+			"LeftArm": 1,
+			"RightArm": 1,
+			"dynamic": 4
+		},
+		"structureRepairCostMulti": 3,
+		"selfRepairStructure": 1.2,
+		"selfRepairDuration": 6,
+		"selfRepairInterval": 0.5,
+		"selfRepairScope": "mech",
+		"mechConflicts": [
+			"HARJEL_I",
+			"HARJEL_II",
+			"HARJEL_III",
+			"BLACK_CARAPACE",
+			"HARDENED_FERRO"
+		]
 	}
 }
