@@ -113,6 +113,8 @@
 	"Warhammer_IIC_MDL": {
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R",
 		"quirks": [
+			"SEARCHLIGHT",
+			"STABLE",
 			"high-pressure-cooling",
 			"clan-mech"
 		],
@@ -173,6 +175,7 @@
 	},
 	"Hunchback_IIC_MDL": {
 		"quirks": [
+			"clan-mech",
 			"BATTLEFISTS"
 		]
 	},
