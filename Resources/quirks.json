@@ -508,7 +508,7 @@
 	},
 	"STABLE_RIGHT_ARM": {
 		"name": "Stable Right Arm",
-		"description": "The Urbanlord's right arm has been stabalized and re-inforced for optimized weapon handling.",
+		"description": "The Urbanlord's right arm has been stabilized and re-inforced for optimized weapon handling.",
 		"properties": {
 			"weapons": {
 				"groups": [{
