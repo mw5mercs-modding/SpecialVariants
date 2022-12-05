@@ -36,7 +36,7 @@ See the list of [existing YAML variants](yaml-variants.md) to make sure you do n
 While you can of course always choose to release your variant in a separate mod, it might be good to collaborate instead and try to get your variant into one of the existing mods. A good rule of thumb might be this:
 
 * your variant uses vanilla or YAW weapons only -> YAML
-* your variant uses Clan weapons or equipment from YAWC -> SpecialVariants or a new mod for Clan variants (talk to trueg)
+* your variant uses Clan weapons or equipment from YAWC -> Yet Another Clan Mech
 * your variant uses equipment from "The Equipment Collection Formerly Known As Harjel" -> SpecialVariants
 
 ## Step 3: Clone an existing variant's assets
