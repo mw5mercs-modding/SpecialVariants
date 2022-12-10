@@ -92,7 +92,8 @@
 		"quirks": [
 			"RUGGED1",
 			"hardened-plates",
-			"high-pressure-cooling"
+			"high-pressure-cooling",
+			"supercooled"
 		]
 	},
 	"BLK-O": {

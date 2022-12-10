@@ -1,0 +1,70 @@
+{
+	"trueg_SPINAL_MOUNT_HGR": {
+		"fillerSlots": {
+			"LeftTorso": 3,
+			"RightTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftTorso",
+			"RightTorso"
+		]
+	},
+	"trueg_SPINAL_MOUNT_HGR_Lvl2": {
+		"fillerSlots": {
+			"LeftTorso": 3,
+			"RightTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftTorso",
+			"RightTorso"
+		]
+	},
+	"trueg_SPINAL_MOUNT_HGR_Lvl3": {
+		"fillerSlots": {
+			"LeftTorso": 3,
+			"RightTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftTorso",
+			"RightTorso"
+		]
+	},
+	"trueg_SPINAL_MOUNT_HGR_Lvl4": {
+		"fillerSlots": {
+			"LeftTorso": 3,
+			"RightTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftTorso",
+			"RightTorso"
+		]
+	},
+	"trueg_SPINAL_MOUNT_HGR_Lvl5": {
+		"fillerSlots": {
+			"LeftTorso": 3,
+			"RightTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftTorso",
+			"RightTorso"
+		]
+	},
+	"Weapon.Missile.MRM.HEAVY": {
+		"jamChance": 0.2,
+		"jamDuration": 9
+	},
+	"Weapon.ArtemisMissile.MML.MML10": {
+		"jamChance": 0.25,
+		"jamDuration": 9
+	}
+}
