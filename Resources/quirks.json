@@ -565,5 +565,13 @@
 			"topSpeedMulti": 1.1,
 			"turnSpeedMulti": 1.2
 		}
+	},
+	"BLK-MHL": {
+		"name": "Macuahuitl",
+		"description": "The Conquistador Macuahuitl is the blunt obsidian-tipped weapon which smites the heretics.",
+		"color": "(R=0.8,G=0,B=0.2,A=1)",
+		"properties": {
+			
+		}
 	}
 }

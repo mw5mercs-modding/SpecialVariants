@@ -89,6 +89,7 @@
 		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
 	},
 	"Conquistador_MDL": {
+		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT",
 		"quirks": [
 			"RUGGED1",
 			"hardened-plates",
@@ -96,17 +97,10 @@
 			"supercooled"
 		]
 	},
-	"BLK-O": {
-		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
-	},
-	"BLK-OA": {
-		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
-	},
-	"BLK-OB": {
-		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
-	},
-	"BLK-OC": {
-		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
+	"BLK-MHL": {
+		"quirks": [
+			"BLK-MHL"
+		]
 	},
 	"RFL-3CR": {
 		"useSkinsFrom": "Mech.Heavy.Rifleman.RFL-3C"
