@@ -60,11 +60,15 @@
 		]
 	},
 	"Weapon.Missile.MRM.HEAVY": {
-		"jamChance": 0.2,
+		"jamChance": 0.25,
 		"jamDuration": 9
 	},
 	"Weapon.ArtemisMissile.MML.MML10": {
 		"jamChance": 0.25,
 		"jamDuration": 9
+	},
+	"Weapon.Energy.Laser.Re": {
+		"armorDamageMulti": 1.4,
+		"structureDamageMulti": 0.8
 	}
 }
