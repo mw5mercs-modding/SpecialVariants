@@ -571,7 +571,37 @@
 		"description": "The Conquistador Macuahuitl is the blunt obsidian-tipped weapon which smites the heretics.",
 		"color": "(R=0.8,G=0,B=0.2,A=1)",
 		"properties": {
-			
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Melee",
+						"tags": [
+							"Weapon.Melee"
+						],
+						"cooldownMulti": 0.8
+					},
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"heatMulti": 0.93,
+						"maxRangeMulti": 1.09,
+						"durationMulti": 0.92
+					},
+					{
+						"weaponGroupName": "Gauss",
+						"tags": [
+							"Weapon.Ballistic.Gauss",
+							"Weapon.Ballistic.GaussRifle"
+						],
+						"damageMulti": 1.13,
+						"speedMulti": 1.08,
+						"ammoMulti": 1.17
+					}
+				]
+			},
+			"topSpeedMulti": 1.17
 		}
 	}
 }
