@@ -213,7 +213,10 @@
 		]
 	},
 	"Jagermech_JM7_MDL": {
-		"scale": "X=1.05 Y=1.05 Z=1.05"
+		"scale": "X=1.05 Y=1.05 Z=1.05",
+		"quirks": [
+			"ANTIAIR-TARGETING"
+		]
 	},
 	"JM7-C3BS": {
 		"quirks": [

@@ -14,10 +14,11 @@
 		},
 		"structureWeightMulti": 1.2,
 		"structureRepairCostMulti": 1.4,
-		"selfRepairArmor": 2,
-		"selfRepairStructure": 1.5,
-		"selfRepairDuration": 5,
+		"selfRepairArmor": 1,
+		"selfRepairStructure": 0.4,
+		"selfRepairDuration": 7,
 		"selfRepairInterval": 1,
+		"selfRepairDegradation": 0.98,
 		"selfRepairScope": "mech",
 		"mechConflicts": [
 			"HARJEL_I",
@@ -79,6 +80,9 @@
 	},
 	"TC_RISC_FIXED": {
 		"fixed": true,
+		"featured": [
+			"modularTc"
+		],
 		"weapons": {
 			"scope": "mech",
 			"groups": [
@@ -134,6 +138,11 @@
 			"MASC_MKIII",
 			"MASC_MKIV",
 			"MASC_MKV",
+			"C79_MASC_MKI",
+			"C79_MASC_MKII",
+			"C79_MASC_MKIII",
+			"C79_MASC_MKIV",
+			"C79_MASC_MKV",
 			"Equipment.MASC",
 			"HYBRID_TSM_QS",
 			"COCKPIT_HOTSEAT",
@@ -184,6 +193,7 @@
 		"selfRepairStructure": 1.2,
 		"selfRepairDuration": 6,
 		"selfRepairInterval": 0.5,
+		"selfRepairDegradation": 0.98,
 		"selfRepairScope": "mech",
 		"mechConflicts": [
 			"HARJEL_I",
