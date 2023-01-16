@@ -603,5 +603,86 @@
 			},
 			"topSpeedMulti": 1.17
 		}
+	},
+	"HMR-3C": {
+		"name": "Claw-Hammer",
+		"description": "Called the Claw-Hammer, the 3C is built to make the Hammer capable of better defending itself when an enemy closes on the battlefield.",
+		"color": "(R=1,G=0.7,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Standard Laser",
+						"tags": [
+							"Weapon.Energy.Laser.Standard"
+						],
+						"cooldownMulti": 0.8,
+						"durationMulti": 0.85,
+						"maxRangeMulti": 1.2,
+						"optimalRangeMulti": 1.2,
+						"heatMulti": 0.88
+					}
+				]
+			}
+		}
+	},
+	"HMR-3P": {
+		"name": "Pein-Hammer",
+		"description": "Also called the Pein-Hammer, the 3P is an extensive modification of the Hammer. The entire arsenal has been removed from the 'Mech and replaced with a short-range assortment of weapons making it an excellent brawler.",
+		"color": "(R=1,G=0.7,B=0,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.15,
+			"armorBonus": {
+				"RightTorso": 5,
+				"LeftTorso": 5,
+				"RightArm": 3,
+				"LeftArm": 3
+			}
+		}
+	},
+	"HMR-3S": {
+		"name": "Slammer",
+		"description": "The 3S is commonly called the Slammer, this variant looks to increase the longevity of the Hammer on the battlefield as a fire support 'Mech.",
+		"color": "(R=1,G=0.7,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"lockonTimeMulti": 0.75,
+				"groups": [
+					{
+						"weaponGroupName": "LRM",
+						"tags": [
+							"Weapon.Missile.LRM",
+							"Weapon.ArtemisMissile.LRM"
+						],
+						"cooldownMulti": 0.7,
+						"minRangeMulti": 0.5,
+						"maxRangeMulti": 1.25,
+						"ammoMulti": 1.2
+					}
+				]
+			}
+		}
+	},
+	"QUASIMODO": {
+		"name": "Quasimodo",
+		"description": "The Quasimodo was intended to be the next generation of the venerable Hunchback 'Mech.",
+		"color": "(R=1,G=0.6,B=0,A=1)",
+		"properties": {
+			"turnSpeedMulti": 1.15,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"cooldownMulti": 0.92,
+						"heatMulti": 0.93,
+						"durationMulti": 0.95,
+						"damageMulti": 1.06
+					}
+				]
+			}
+		}
 	}
 }

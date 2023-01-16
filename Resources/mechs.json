@@ -225,5 +225,36 @@
 			"melee-actuators",
 			"REINFORCED_ARMS"
 		]
+	},
+	"Hammer_MDL": {
+		"scale": "X=0.58 Y=0.58 Z=0.58",
+		"useSkinsFrom": "Mech.Assault.Atlas.AS7-D",
+		"quirks": [
+			"IMPROVED-TARGETING-LONG",
+			"EXTENDED-TORSO-TWIST"
+		]
+	},
+	"HMR-3C": {
+		"quirks": [
+			"HMR-3C"
+		]
+	},
+	"HMR-3P": {
+		"quirks": [
+			"HMR-3P"
+		]
+	},
+	"HMR-3S": {
+		"quirks": [
+			"HMR-3S"
+		]
+	},
+	"Quasimodo_MDL": {
+		"scale": "X=1.05 Y=1.05 Z=1.05",
+		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G",
+		"quirks": [
+			"QUASIMODO",
+			"HEAD-EJECT"
+		]
 	}
 }
