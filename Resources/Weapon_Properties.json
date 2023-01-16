@@ -70,5 +70,10 @@
 	"Weapon.Energy.Laser.Re": {
 		"armorDamageMulti": 1.4,
 		"structureDamageMulti": 0.8
+	},
+	"trueg_Medium_VSPL": {
+		"mechSpeedDmgScale": 0.01,
+		"mechSpeedHeatScale": 0.02,
+		"mechSpeedDmgScaleMaxSpeed": 200
 	}
 }

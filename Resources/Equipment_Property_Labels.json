@@ -1,0 +1,14 @@
+{
+	"mechSpeedDmgScale": {
+		"label": "Damage scaling factor based on 'mech speed",
+		"unit": "percent"
+	},
+	"mechSpeedHeatScale": {
+		"label": "Heat scaling factor based on 'mech speed",
+		"unit": "percent"
+	},
+	"mechSpeedDmgScaleMaxSpeed": {
+		"label": "Max 'mech speed for damage and heat scaling",
+		"unit": "KpH"
+	}
+}
