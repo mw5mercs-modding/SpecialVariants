@@ -61,6 +61,17 @@
 		"armorMulti": 2,
 		"fillerSlots": {
 			"dynamic": 0
+		},
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Re-Engineered Laser",
+				"tags": [
+					"Weapon.Energy.Laser.RELaser",
+					"Weapon.Energy.Laser.Re"
+				],
+				"armorDamageMulti": 1.5,
+				"scope": "mech"
+			}]
 		}
 	},
 	"TC_DEFIANCE": {
