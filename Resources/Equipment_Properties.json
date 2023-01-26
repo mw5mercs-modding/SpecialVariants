@@ -91,7 +91,7 @@
 	},
 	"TC_RISC_FIXED": {
 		"fixed": true,
-		"featured": [
+		"features": [
 			"modularTc"
 		],
 		"weapons": {
