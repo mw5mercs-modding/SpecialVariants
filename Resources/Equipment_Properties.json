@@ -24,8 +24,14 @@
 			"HARJEL_I",
 			"HARJEL_II",
 			"HARJEL_III",
-			"BLACK_CARAPACE"
-		]
+			"BLACK_CARAPACE",
+			"HARDENED_FERRO",
+			"STICK_AND_PEEL_QS"
+		],
+		"removeDays": 110,
+		"removeCost": 3600000,
+		"salvageInto": "MWHeatSinkDataAsset:HARJEL_II",
+		"salvageMulti": 7
 	},
 	"OMNI_GYRO_XXL": {
 		"fillerSlots": {
@@ -34,7 +40,9 @@
 		},
 		"relativeWeight": 0.25,
 		"loreAccurate": false,
-		"fixed": true
+		"fixed": true,
+		"removeDays": 90,
+		"removeCost": 2200000
 	},
 	"ENGINE_LIGHT_FIXED": {
 		"fixed": true,
@@ -45,10 +53,15 @@
 		"engineHealthType": "light",
 		"engineRelativeWeight": -0.25,
 		"movementHeatMulti": 0.9,
-		"salvageInto": "MWHeatSinkDataAsset:ENGINE_LIGHT"
+		"salvageInto": "MWHeatSinkDataAsset:ENGINE_LIGHT",
+		"removeDays": 90,
+		"removeCost": 2500000
 	},
 	"ENGINE_CORE_300_FIXED": {
-		"fixed": true
+		"fixed": true,
+		"salvageInto": "MWHeatSinkDataAsset:std300",
+		"removeDays": 90,
+		"removeCost": 1800000
 	},
 	"Equipment.Ammo.Double": {
 		"rarity": 0.3
@@ -72,7 +85,9 @@
 				"armorDamageMulti": 1.5,
 				"scope": "mech"
 			}]
-		}
+		},
+		"removeDays": 110,
+		"removeCost": 3500000
 	},
 	"TC_DEFIANCE": {
 		"fixed": true,
@@ -87,7 +102,9 @@
 					"damageMulti": 1.15
 				}
 			]
-		}
+		},
+		"removeDays": 90,
+		"removeCost": 2000000
 	},
 	"TC_RISC_FIXED": {
 		"fixed": true,
@@ -107,19 +124,27 @@
 					"speedMulti": 1.15
 				}
 			]
-		}
+		},
+		"removeDays": 90,
+		"removeCost": 2000000
 	},
 	"SENSORS_RISC_FIXED": {
 		"fixed": true,
-		"sensorRangeBonus": 400
+		"sensorRangeBonus": 400,
+		"removeDays": 90,
+		"removeCost": 2000000
 	},
 	"COCKPIT_RISC_FIXED": {
 		"fixed": true,
-		"armorComponentFront": 5
+		"armorComponentFront": 5,
+		"removeDays": 90,
+		"removeCost": 2000000
 	},
 	"COCKPIT_SMALL_ADVANCED_FIXED": {
 		"salvageInto": "MWHeatSinkDataAsset:COCKPIT_SMALL_ADVANCED",
-		"fixed": true
+		"fixed": true,
+		"removeDays": 90,
+		"removeCost": 2000000
 	},
 	"SOLARIS_XXL_ENGINE_FIXED": {
 		"fixed": true,
@@ -159,7 +184,9 @@
 			"COCKPIT_HOTSEAT",
 			"ENDO_TSM"
 		],
-		"salvageInto": "MWHeatSinkDataAsset:COCKPIT_HOTSEAT"
+		"salvageInto": "MWHeatSinkDataAsset:COCKPIT_HOTSEAT",
+		"removeDays": 110,
+		"removeCost": 35000000
 	},
 	"LICH_HYBRID_STRUCTURE": {
 		"fixed": true,
@@ -211,7 +238,12 @@
 			"HARJEL_II",
 			"HARJEL_III",
 			"BLACK_CARAPACE",
-			"HARDENED_FERRO"
-		]
+			"HARDENED_FERRO", 
+			"STICK_AND_PEEL_QS"
+		],
+		"removeDays": 110,
+		"removeCost": 36000000,
+		"salvageInto": "MWHeatSinkDataAsset:HARJEL_III",
+		"salvageMulti": 7
 	}
 }
