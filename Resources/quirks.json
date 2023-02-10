@@ -173,7 +173,7 @@
 	"WMR-IIC-ML": {
 		"name": "Warhammer IIC Maul",
 		"description": "Warhammer IIC Maul Hero Quirk",
-		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"color": "(R=1,G=0.4,B=0,A=1)",
 		"properties": {
 			"weapons": {
 				"groups": [
@@ -217,7 +217,7 @@
 	"WMR-IIC-BL": {
 		"name": "Warhammer IIC Bludgeon",
 		"description": "Warhammer IIC Bludgeon Hero Quirk",
-		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"color": "(R=1,G=0.4,B=0,A=1)",
 		"properties": {
 			"weapons": {
 				"groups": [
@@ -266,7 +266,7 @@
 	"WMR-IIC-RAC": {
 		"name": "RAC-Hammer",
 		"description": "Warhammer IIC \"RAC-Hammer\" Hero Quirk",
-		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"color": "(R=1,G=0.4,B=0,A=1)",
 		"properties": {
 			"weapons": {
 				"groups": [
@@ -288,16 +288,23 @@
 		"description": "The 'mech's torso can rotate 360° to fire in all directions.",
 		"properties": {}
 	},
-	"TDR-E5-ERIS": {
-		"name": "Thunderbolt Eris",
-		"description": "The Eris, named after the Terran Goddess of Chaos and Strife",
+	"TDR-E5-HERO-ARMOR": {
+		"name": "Thunderbolt Eris Hero Armor",
+		"description": "The Eris Thunderbolt Hero comes equipped with higher density armor",
 		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
 		"properties": {
 			"upkeepCostMulti": 2,
 			"armorBonus": {
 				"RightArm": 10,
 				"LeftArm": 10
-			},
+			}
+		}
+	},
+	"TDR-E5-ERIS": {
+		"name": "Thunderbolt Eris",
+		"description": "The Eris, named after the Terran Goddess of Chaos and Strife",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
 			"weapons": {
 				"groups": [
 					{
@@ -356,9 +363,9 @@
 			}
 		}
 	},
-	"hbk-iic-deathwish": {
+	"hbk-iic-deathwish-HERO-ARMOR": {
 		"name": "Hunchback IIC Deathwish",
-		"description": "Hunchback IIC Deathwish Hero Quirk",
+		"description": "The Hunchback IIC Deathwish Hero has increased armor and structure.",
 		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
 		"properties": {
 			"armorBonus": {
@@ -370,7 +377,14 @@
 				"CenterTorso": 12,
 				"RightTorso": 12,
 				"LeftTorso": 12
-			},
+			}
+		}
+	},
+	"hbk-iic-deathwish": {
+		"name": "Hunchback IIC Deathwish",
+		"description": "The unique Hunchback IIC Deathwish Hero Quirk.",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
 			"weapons": {
 				"groups": [
 					{
@@ -490,10 +504,22 @@
 	"REINFORCED_ARMS": {
 		"name": "Reinforced Arms",
 		"description": "'Mech arms tend to fall off, so this one has an extra layer of ferro plates bolted to them.",
+		"color": "(R=0.9,G=0,B=0,A=1)",
 		"properties": {
 			"armorBonus": {
 				"LeftArm": 10,
 				"RightArm": 10
+			}
+		}
+	},
+	"UPARMORED_ARMS": {
+		"name": "Up-armored Arms",
+		"description": "'Mech arms tend to fall off, so this one has an extra layer of ferro plates bolted to them.",
+		"color": "(R=0.9,G=0,B=0,A=1)",
+		"properties": {
+			"maxArmorBonus": {
+				"LeftArm": 8,
+				"RightArm": 8
 			}
 		}
 	},

@@ -33,7 +33,8 @@
 	"WHM-X": {
 		"quirks": [
 			"high-pressure-cooling",
-			"risc-mech"
+			"risc-mech",
+			"UPARMORED_ARMS"
 		],
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
 	},
@@ -81,7 +82,8 @@
 	},
 	"TDR-E5 ERIS": {
 		"quirks": [
-			"TDR-E5-ERIS"
+			"TDR-E5-ERIS",
+			"TDR-E5-HERO-ARMOR"
 		],
 		"scale": "X=1.07 Y=1.07 Z=1.07"
 	},
@@ -117,23 +119,23 @@
 	},
 	"WMR-IIC-ML": {
 		"quirks": [
-			"WMR-IIC-HERO-ARMOR",
-			"WMR-IIC-ML"
+			"WMR-IIC-ML",
+			"WMR-IIC-HERO-ARMOR"
 		],
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
 	},
 	"WMR-IIC-BL": {
 		"quirks": [
-			"WMR-IIC-HERO-ARMOR",
 			"WMR-IIC-BL",
+			"WMR-IIC-HERO-ARMOR",
 			"SEARCHLIGHT"
 		],
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
 	},
 	"WMR-IIC-RAC": {
 		"quirks": [
-			"WMR-IIC-RAC-ARMOR",
-			"WMR-IIC-RAC"
+			"WMR-IIC-RAC",
+			"WMR-IIC-RAC-ARMOR"
 		],
 		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
 	},
@@ -204,7 +206,8 @@
 	"HBK-IIC-DW": {
 		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G",
 		"quirks": [
-			"hbk-iic-deathwish"
+			"hbk-iic-deathwish",
+			"hbk-iic-deathwish-HERO-ARMOR"
 		]
 	},
 	"JM6-JO": {
