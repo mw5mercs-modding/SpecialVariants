@@ -67,6 +67,10 @@
 		"jamChance": 0.25,
 		"jamDuration": 9
 	},
+	"Weapon.ArtemisMissile.MML.MML5-RISC": {
+		"jamChance": 0.25,
+		"jamDuration": 9
+	},
 	"Weapon.Energy.Laser.Re": {
 		"armorDamageMulti": 1.4,
 		"structureDamageMulti": 0.8
