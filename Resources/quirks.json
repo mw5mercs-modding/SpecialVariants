@@ -710,5 +710,47 @@
 				]
 			}
 		}
+	},
+	"PROTOTYPE": {
+		"name": "Prototype",
+		"description": "Components on prototype platforms tend to be less resilient and lack redundancy compared to components from full manufacturing production lines.",
+		"color": "(R=0.0,G=0.0,B=0.9,A=1)",
+		"properties": {
+			"upkeepCostMulti": 1.1,
+			"equipmentRefitCostMulti": 1.1,
+			"equipmentRefitDaysMulti": 1.1,
+			"incomingDamage": {
+				"groups": [{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"structureDamageMulti": 1.03,
+					"scope": "mech"
+				}]
+			}
+		}
+	},
+	"OBSOLETE": {
+		"name": "Obsolete 'mech",
+		"description": "The 'mech went out of production, and from that date onwards units of that type become increasingly difficult to maintain.",
+		"color": "(R=0.0,G=0.0,B=0.7,A=1)",
+		"properties": {
+			"upkeepCostMulti": 1.15,
+			"equipmentRefitCostMulti": 1.15,
+			"torsoTwistAngleMulti": 0.97,
+			"torsoTwistRateMulti": 0.97
+		}
+	},
+	"SUPER_GRIFFIN_ARMOR": {
+		"name": "Prototype Armor",
+		"description": "The Super Griffin armor distribution is slightly off due to its prototype production state.",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"maxArmorBonus": {
+				"RightTorso": 4,
+				"LeftTorso": 4
+			}
+		}
 	}
 }

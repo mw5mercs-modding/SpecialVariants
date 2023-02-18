@@ -262,5 +262,20 @@
 			"QUASIMODO",
 			"HEAD-EJECT"
 		]
+	},
+	"SuperGriffin_MDL": {
+		"scale": "X=1.05 Y=1.05 Z=1.05",
+		"useSkinsFrom": "Mech.Medium.Griffin.GRF-1N",
+		"quirks": [
+			"PROTOTYPE",
+			"SUPER_GRIFFIN_ARMOR"
+		]
+	},
+	"PrimitiveGriffin_MDL": {
+		"scale": "X=1.05 Y=1.05 Z=1.05",
+		"useSkinsFrom": "Mech.Medium.Griffin.GRF-1N",
+		"quirks": [
+			"OBSOLETE"
+		]
 	}
 }
