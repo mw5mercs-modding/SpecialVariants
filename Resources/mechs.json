@@ -159,7 +159,8 @@
 	"BL-S7-KNT": {
 		"quirks": [
 			"melee-actuators",
-			"supercooled"
+			"supercooled",
+			"SOLARIS_7"
 		],
 		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
 	},
@@ -185,7 +186,8 @@
 		"quirks": [
 			"melee-actuators",
 			"EASY-PILOT",
-			"HEAT_RESISTANT"
+			"HEAT_RESISTANT",
+			"SOLARIS_7"
 		]
 	},
 	"HBK-IIC-1": {
@@ -229,7 +231,8 @@
 	"SHD-S7": {
 		"quirks": [
 			"melee-actuators",
-			"REINFORCED_ARMS"
+			"REINFORCED_ARMS",
+			"SOLARIS_7"
 		]
 	},
 	"Hammer_MDL": {
