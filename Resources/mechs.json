@@ -277,5 +277,33 @@
 		"quirks": [
 			"OBSOLETE"
 		]
+	},
+	"Hatchetman_RX_MDL": {
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"MELEE"
+		],
+		"useSkinsFrom": "Mech.Medium.Hatchetman.HCT-3F"
+	},
+	"HCT-S7": {
+		"quirks": [
+			"SOLARIS_7"
+		]
+	},
+	"Marasai1_MDL": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"BARREL-FIST (L)",
+			"EASYTOMAINTAIN",
+			"MODULAR-WEAPONS"
+		]
+	},
+	"HTM-ON-M": {
+		"maxEngineRating": 385,
+		"quirks": [
+			"MELEE",
+			"HTM-ON",
+			"HTM-HERO"
+		]
 	}
 }

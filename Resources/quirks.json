@@ -752,5 +752,40 @@
 				"LeftTorso": 4
 			}
 		}
+	},
+	"SOLARIS_7": {
+		"name": "Solaris 7",
+		"description": "This 'mech has been tuned by the finest technicians Solaris 7 has to offer.",
+		"color": "(R=0.7,G=0.0,B=0.7,A=1)",
+		"properties": {
+			"incomingDamage": {
+				"groups": [{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"structureDamageMulti": 0.93,
+					"scope": "mech"
+				}]
+			},
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.93,
+						"heatMulti": 0.93
+					}
+				]
+			},
+			"turnSpeedMulti": 1.07,
+			"topSpeedMulti": 1.07,
+			"upkeepCostMulti": 1.07,
+			"armorBonus": {
+				"Head": 7
+			}
+		}
 	}
 }
