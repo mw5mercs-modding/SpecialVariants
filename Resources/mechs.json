@@ -308,5 +308,10 @@
 			"HTM-ON",
 			"HTM-HERO"
 		]
+	},
+	"LGB-RX": {
+		"quirks": [
+			"risc-mech"
+		]
 	}
 }
