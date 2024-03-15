@@ -313,5 +313,15 @@
 		"quirks": [
 			"risc-mech"
 		]
+	},
+	"LGB0F-MG": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"useSkinsFrom": "Mech.Assault.Longbow.LGB-7Q",
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"SEARCHLIGHT",
+			"MISSILEBOAT",
+			"JOERMUNGANDR"
+		]
 	}
 }

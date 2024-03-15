@@ -787,5 +787,38 @@
 				"Head": 7
 			}
 		}
+	},
+	"JOERMUNGANDR": {
+		"name": "Joermungandr",
+		"description": "Joermungandr named for the great 'Midgard Serpent' that will herald Ragnarok and bring an end to the Gods, does this 'Mech herald a rain of Fire and Death.",
+		"color": "(R=0.5625,G=0.1523,B=0.957,A=1)",
+		"properties": {
+			"structureMulti": 1.2,
+			"structureRepairCostMulti": 1.5,
+			"structureRepairDaysMulti": 1.5,
+			"coolingMulti": 1.05,
+			"weapons": {
+				"lockonTimeMulti": 0.9,
+				"groups": [
+					{
+						"weaponGroupName": "Standard LRM",
+						"tags": [
+							"Weapon.Missile.LRM"
+						],
+						"cooldownMulti": 0.95,
+						"damageMulti": 1.1
+					}
+				]
+			},
+			"maxArmorBonus": {
+				"RightTorso": 8,
+				"LeftTorso": 8,
+				"CenterTorso": 12,
+				"LeftArm": 6,
+				"RightArm": 6,
+				"LeftLeg": 8,
+				"RightLeg": 8
+			}
+		}
 	}
 }
