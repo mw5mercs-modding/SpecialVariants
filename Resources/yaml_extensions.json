@@ -13,5 +13,10 @@
 	"name": "special-variants-global-misc",
 	"type": "global",
 	"actorClassPath": "/SpecialVariants/Extensions/SpecialVariantsGlobalMisc.SpecialVariantsGlobalMisc_C"
+},
+{
+	"name": "yasv-savegame",
+	"type": "savegame",
+	"actorClassPath": "/SpecialVariants/Extensions/SpecialVariantsSavegameHandler.SpecialVariantsSavegameHandler_C"
 }
 ]
