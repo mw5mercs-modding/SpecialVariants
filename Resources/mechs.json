@@ -217,7 +217,7 @@
 			"focus-fire-arms"
 		]
 	},
-	"Jagermech_JM7_MDL": {
+	"YASV_Jagermech_JM7_MDL": {
 		"scale": "X=1.05 Y=1.05 Z=1.05",
 		"quirks": [
 			"ANTIAIR-TARGETING"
@@ -270,6 +270,7 @@
 		"scale": "X=1.05 Y=1.05 Z=1.05",
 		"useSkinsFrom": "Mech.Medium.Griffin.GRF-1N",
 		"quirks": [
+			"BATTLEFISTS",
 			"PROTOTYPE",
 			"SUPER_GRIFFIN_ARMOR"
 		]
@@ -278,6 +279,7 @@
 		"scale": "X=1.05 Y=1.05 Z=1.05",
 		"useSkinsFrom": "Mech.Medium.Griffin.GRF-1N",
 		"quirks": [
+			"BATTLEFISTS",
 			"OBSOLETE"
 		]
 	},
