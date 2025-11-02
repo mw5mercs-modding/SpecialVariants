@@ -63,6 +63,12 @@
 		"jamChance": 0.25,
 		"jamDuration": 9
 	},
+	"Weapon.ArtemisMissile.MML": {
+		"ammoTypes": [
+			"Ammo.Missile.LRM.Artemis",
+			"Ammo.Missile.SRM.Artemis"
+		]
+	},
 	"Weapon.ArtemisMissile.MML.MML10": {
 		"jamChance": 0.25,
 		"jamDuration": 9
