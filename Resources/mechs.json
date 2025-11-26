@@ -2,41 +2,35 @@
 	"ANH-2AX": {
 		"quirks": [
 			"hardened-plates"
-		],
-		"useSkinsFrom": "Mech.Assault.Annihilator.ANH-2A"
+		]
 	},
 	"ANH-3A": {
 		"quirks": [
 			"hardened-plates"
-		],
-		"useSkinsFrom": "Mech.Assault.Annihilator.ANH-2A"
+		]
 	},
 	"ANH-SG": {
 		"quirks": [
 			"schwerer-gustav"
-		],
-		"useSkinsFrom": "Mech.Assault.Annihilator.ANH-2A"
+		]
 	},
 	"WHM-10K": {
 		"quirks": [
 			"high-pressure-cooling"
-		],
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+		]
 	},
 	"WHM-66": {
 		"quirks": [
 			"high-pressure-cooling",
 			"coolingJacketPpc"
-		],
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+		]
 	},
 	"WHM-X": {
 		"quirks": [
 			"high-pressure-cooling",
 			"risc-mech",
 			"UPARMORED_ARMS"
-		],
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+		]
 	},
 	"WHM-X7": {
 		"quirks": [
@@ -47,38 +41,25 @@
 	"MAD-8K": {
 		"quirks": [
 			"gunslinger"
-		],
-		"useSkinsFrom": "Mech.Assault.Marauderii.MAD-5A"
+		]
 	},
 	"MAD-RX": {
 		"quirks": [
 			"gunslinger",
 			"hyper-extending-actuators"
-		],
-		"useSkinsFrom": "Mech.Assault.Marauderii.MAD-5A"
+		]
 	},
 	"MAD-RSC": {
 		"quirks": [
 			"dreadnaught",
 			"matar"
-		],
-		"useSkinsFrom": "Mech.Assault.Marauderii.MAD-5A"
+		]
 	},
 	"ZEU-X": {
 		"quirks": [
 			"dreadnaught",
 			"zeusXDifficultToMaintain"
-		],
-		"useSkinsFrom": "Mech.Assault.Zeus.ZEU-9S"
-	},
-	"CTF-5L": {
-		"useSkinsFrom": "Mech.Heavy.Cataphract.CTF-1X"
-	},
-	"PNT-14R": {
-		"useSkinsFrom": "Mech.Light.Panther.PNT-8Z"
-	},
-	"TDR-12R": {
-		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
+		]
 	},
 	"TDR-E5 ERIS": {
 		"quirks": [
@@ -87,11 +68,7 @@
 		],
 		"scale": "X=1.07 Y=1.07 Z=1.07"
 	},
-	"TDR-E5": {
-		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S"
-	},
 	"Conquistador_MDL": {
-		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT",
 		"quirks": [
 			"RUGGED1",
 			"hardened-plates",
@@ -104,11 +81,7 @@
 			"BLK-MHL"
 		]
 	},
-	"RFL-3CR": {
-		"useSkinsFrom": "Mech.Heavy.Rifleman.RFL-3C"
-	},
 	"Warhammer_IIC_MDL": {
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R",
 		"quirks": [
 			"SEARCHLIGHT",
 			"STABLE",
@@ -121,29 +94,25 @@
 		"quirks": [
 			"WMR-IIC-ML",
 			"WMR-IIC-HERO-ARMOR"
-		],
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+		]
 	},
 	"WMR-IIC-BL": {
 		"quirks": [
 			"WMR-IIC-BL",
 			"WMR-IIC-HERO-ARMOR",
 			"SEARCHLIGHT"
-		],
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+		]
 	},
 	"WMR-IIC-RAC": {
 		"quirks": [
 			"WMR-IIC-RAC",
 			"WMR-IIC-RAC-ARMOR"
-		],
-		"useSkinsFrom": "Mech.Heavy.Warhammer.WHM-6R"
+		]
 	},
 	"MAD-S7": {
 		"quirks": [
 			"gungnir"
-		],
-		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R",
+		]
 		"aiMechRole": "Juggernaut"
 	},
 	"UBL-RX": {
@@ -153,23 +122,20 @@
 			"EASY-PILOT",
 			"CAN_T_TOUCH_THIS"
 		],
-		"scale": "X=1.5 Y=1.5 Z=1.5",
-		"useSkinsFrom": "Mech.Light.Urbanmech.UM-R60"
+		"scale": "X=1.5 Y=1.5 Z=1.5"
 	},
 	"BL-S7-KNT": {
 		"quirks": [
 			"melee-actuators",
 			"supercooled",
 			"SOLARIS_7"
-		],
-		"useSkinsFrom": "Mech.Heavy.Blackknight.BL-7-KNT"
+		]
 	},
 	"WVR-X": {
 		"quirks": [
 			"reflective-coating",
 			"melee-actuators"
-		],
-		"useSkinsFrom": "Mech.Medium.Wolverine.WVR-6K"
+		]
 	},
 	"Hunchback_IIC_MDL": {
 		"quirks": [
@@ -190,23 +156,7 @@
 			"SOLARIS_7"
 		]
 	},
-	"HBK-IIC-1": {
-		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
-	},
-	"HBK-IIC-2": {
-		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
-	},
-	"HBK-IIC-3": {
-		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
-	},
-	"HBK-IIC-4": {
-		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
-	},
-	"HBK-IIC-5": {
-		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G"
-	},
 	"HBK-IIC-DW": {
-		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G",
 		"quirks": [
 			"hbk-iic-deathwish",
 			"hbk-iic-deathwish-HERO-ARMOR"
@@ -237,7 +187,6 @@
 	},
 	"Hammer_MDL": {
 		"scale": "X=0.58 Y=0.58 Z=0.58",
-		"useSkinsFrom": "Mech.Assault.Atlas.AS7-D",
 		"quirks": [
 			"IMPROVED-TARGETING-LONG",
 			"EXTENDED-TORSO-TWIST"
@@ -260,7 +209,6 @@
 	},
 	"Quasimodo_MDL": {
 		"scale": "X=1.05 Y=1.05 Z=1.05",
-		"useSkinsFrom": "Mech.Medium.Hunchback.HBK-4G",
 		"quirks": [
 			"QUASIMODO",
 			"HEAD-EJECT"
@@ -268,7 +216,6 @@
 	},
 	"SuperGriffin_MDL": {
 		"scale": "X=1.05 Y=1.05 Z=1.05",
-		"useSkinsFrom": "Mech.Medium.Griffin.GRF-1N",
 		"quirks": [
 			"BATTLEFISTS",
 			"PROTOTYPE",
@@ -277,7 +224,6 @@
 	},
 	"PrimitiveGriffin_MDL": {
 		"scale": "X=1.05 Y=1.05 Z=1.05",
-		"useSkinsFrom": "Mech.Medium.Griffin.GRF-1N",
 		"quirks": [
 			"BATTLEFISTS",
 			"OBSOLETE"
@@ -287,8 +233,7 @@
 		"quirks": [
 			"ANTIAIR-TARGETING",
 			"MELEE"
-		],
-		"useSkinsFrom": "Mech.Medium.Hatchetman.HCT-3F"
+		]
 	},
 	"HCT-S7": {
 		"quirks": [
@@ -318,7 +263,6 @@
 	},
 	"LGB0F-MG": {
 		"scale": "X=1.1 Y=1.1 Z=1.1",
-		"useSkinsFrom": "Mech.Assault.Longbow.LGB-7Q",
 		"quirks": [
 			"ANTIAIR-TARGETING",
 			"SEARCHLIGHT",
