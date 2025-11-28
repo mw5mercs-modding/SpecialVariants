@@ -112,7 +112,7 @@
 	"MAD-S7": {
 		"quirks": [
 			"gungnir"
-		]
+		],
 		"aiMechRole": "Juggernaut"
 	},
 	"UBL-RX": {
